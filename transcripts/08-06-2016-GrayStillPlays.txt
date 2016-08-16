@@ -3,12 +3,16 @@ https://www.youtube.com/watch?v=BFM4sTFMU1U
 
 Gray:
 
-Hello everybody, Graystillplays, and I'm here with a very special guest, I'm here today with JC Bailie who is the lead developer and as well as the president of Novaquark
+Hello everybody, Graystillplays, and I'm here with a very special guest.
+
+I’m here today with JC Bailie who is the lead developer and as well as the president of Novaquark, 
 which is the indepdendent studio that is currently making a game called Dual Universe.
 
-Jc I just wanted to tell you I really appreciate you coming here today and I think it's very cool that you're here to kinda talk a little bit about this brand new game.
+Jc I just wanted to tell you I really appreciate you coming here today and I think it's very cool 
+that you're here to kinda talk a little bit about this brand new game.
 
-And when a developer gets involved with a community in a way like this, I really appreciate that. So first off just I really thank you for coming here today and taking your time.
+And when a developer gets involved with a community in a way like this, I really appreciate that. 
+So first off just I really thank you for coming here today and taking your time.
 
 
 
@@ -27,62 +31,97 @@ That’s correct, I’m in paris in the morning having my coffee.
 
 Gray:
 
-Okay, well very good. Before we start with just kinda like the real specific questions. We have a lot of questions from the community here.
+Okay, well very good. Before we start with just kinda like the real specific questions. We have a lot 
+of questions from the community here.
 
-They’re very interested about the game, this game has just very recently been revealed. And just one of the things I’d just like to get out of the way is, how would you describe this game to someone just learning about dual universe who’s never heard of dual universe?
+They’re very interested about the game, this game has just very recently been revealed. And just one 
+of the things I’d just like to get out of the way is, how would you describe this game to someone 
+just learning about dual universe who’s never heard of dual universe?
 
 
 JC:
 
-Yes for sure. Well, dual universe is an upcoming sandbox scifi mmorpg. And it’s focused on emergent gameplay ability. So everything you find in the game is going to be built by players themselves.
+Yes for sure. Well, dual universe is an upcoming sandbox scifi mmorpg. And it’s focused on emergent 
+gameplay ability. So everything you find in the game is going to be built by players themselves.
 
-If you see a city, a spaceship or a space station, this is going to be built. There is voxel technology and all the tools to let you do that. And also all the, I want to say the social structures like political structures, territories, social structures, all the things that will expand with the community in the game will also come from the players themselves.
+If you see a city, a spaceship or a space station, this is going to be built. There is voxel technology 
+and all the tools to let you do that. And also all the, I want to say the social structures like 
+political structures, territories, social structures, all the things that will expand with the 
+community in the game will also come from the players themselves.
 
 And all this, and that makes it really unique I think. 
 
-All this is taking place in what we call a continuous single shard. That means that everybody is going to be playing in the same universe at the same time. So there is one big server, there are no instances, no zones, no loading, no things like that. And everybody shares this universe at the same time. So there are a lot of things that can happen in terms of emergence.
+All this is taking place in what we call a continuous single shard. That means that everybody is 
+going to be playing in the same universe at the same time. So there is one big server, there are 
+no instances, no zones, no loading, no things like that. And everybody shares this universe at 
+the same time. So there are a lot of things that can happen in terms of emergence.
 
-you see things that happen because people attract each other. And they have different desires, different intentions, and they conflict or they cooperate. And so we find that really really exciting to push this idea of emergent gameplay with this new technology that we have developed and allowing new things to be done in this kind of universe.
+you see things that happen because people attract each other. And they have different desires, 
+different intentions, and they conflict or they cooperate. And so we find that really really 
+exciting to push this idea of emergent gameplay with this new technology that we have developed 
+and allowing new things to be done in this kind of universe.
 
 [2:34]
 
 Gray:
 
-Okay, so it’s clearly planned to be massive and that’s very cool and I like the fact that you’re putting all of the responsibility in the players hands when it comes to how to kind of shape the universe, that’s pretty neat.
+Okay, so it’s clearly planned to be massive and that’s very cool and I like the fact that you’re 
+putting all of the responsibility in the players hands when it comes to how to kind of shape the 
+universe, that’s pretty neat.
 
-For someone hearing about you for the first time, who are you, who is JC? Let’s hear a little about you real quick.
+For someone hearing about you for the first time, who are you, who is JC? Let’s hear a little 
+about you real quick.
 
 JC:
 
 I’m a science guy basically. I have a phd in robotics and AI, so I —??-
 
-I created a company before nova quark which was called gostai making robots and let’s a sort of operating system for robots. 
+I created a company before nova quark which was called gostai making robots and let’s a sort 
+of operating system for robots. 
 
-So there’s no connection with video games from what I’ve done before, except perhaps the fact that I like technologies and complex system, so I know how to do that. And I like to look, you know, at a domain and say okay, “what can we do that has not been done yet that has made possible by the advances of new, for example, new hardware or new bandwidth capabilities that we have today, or the cloud technologies. And how can we rethink the way things have been done so far, like in MMO’s for example.”
+So there’s no connection with video games from what I’ve done before, except perhaps the fact that 
+I like technologies and complex system, so I know how to do that. And I like to look, you know, 
+at a domain and say okay, “what can we do that has not been done yet that has made possible by the 
+advances of new, for example, new hardware or new bandwidth capabilities that we have today, or 
+the cloud technologies. And how can we rethink the way things have been done so far, like in 
+MMO’s for example.”
 
-So I like to look at technologies and invent new things, and then use these things to push the boundaries of what is possible a bit further. So that’s -?- 
+So I like to look at technologies and invent new things, and then use these things to push the 
+boundaries of what is possible a bit further. So that’s -?- 
 
-So basically my background is in AI and robotics, and complex systems. And I like emergent systems, you know in AI I was interested in emergence, -?- that’s a whole topic to discuss if you want but, about having your small bricks that you assemble that will actually together give birth to interesting evolving systems.
+So basically my background is in AI and robotics, and complex systems. And I like emergent systems, 
+you know in AI I was interested in emergence, -?- that’s a whole topic to discuss if you want but, 
+about having your small bricks that you assemble that will actually together give birth to interesting 
+evolving systems.
 
 This is the same idea that we have in dual universe. 
 
 
 Gray:
 
-Okay, so let me ask you this. Were, are you a gamer? What kind of inspirations did you have for the thought process in the creation of dual universe?
+Okay, so let me ask you this. Were, are you a gamer? What kind of inspirations did you have for the 
+thought process in the creation of dual universe?
 
 JC:
 
 Yeah, I’m a gamer. I’ve played a lot of eve online for example. I’ve played a lot of mine craft.
 
-I guess I like games where you can be completely immersed into something that is , that you feel is realistic. Or you feel that you have a lot of freed. Where you feel that you might be surprised by things that you don’t expect.
+I guess I like games where you can be completely immersed into something that is , that you feel is 
+realistic. Or you feel that you have a lot of freed. Where you feel that you might be surprised by 
+things that you don’t expect.
 
 [5:08]
-So hence, for example, all this idea about emergent content that comes from the players.. If I go on a planet and I land on it, I want to be surprised by what I could see on it because it’s made by other guys, other people. And I don’t know what’s gonna be, you know it could be a huge city that I’ve never seen before that is completely original.
+So hence, for example, all this idea about emergent content that comes from the players.. If I go on a 
+planet and I land on it, I want to be surprised by what I could see on it because it’s made by other 
+guys, other people. And I don’t know what’s gonna be, you know it could be a huge city that I’ve never 
+seen before that is completely original.
 
-So I’m interested in that, and I’m interested in also having everybody in the same world at the same time. Something that you have also in eve online, because they are a single shard.
+So I’m interested in that, and I’m interested in also having everybody in the same world at the same 
+time. Something that you have also in eve online, because they are a single shard.
 
-But I want to push this a step further, having people -?- capability for people to build stuff together. To create things that are gigantic, surprising, astonishing. So I want to be surprised when I play a video game.
+But I want to push this a step further, having people -?- capability for people to build stuff 
+together. To create things that are gigantic, surprising, astonishing. So I want to be surprised 
+when I play a video game.
 
 Gray:
 
@@ -90,15 +129,24 @@ Okay, so what about the project origins for dual universe? what can you tell us 
 
 JC:
 
-Well the origin is somewhere in the summer of 2011, and as I said I was playing eve online, I was playing mine craft, and I thought, it would be really cool if we could get those two concepts together. So a single shard world where people can actually build stuff. So that was the beginning and I started to think about it, and I wrote a lot of text , a lot of thinking and brainstorming, and at some point I realized that the technologies were ready. 
+Well the origin is somewhere in the summer of 2011, and as I said I was playing eve online, I was 
+playing mine craft, and I thought, it would be really cool if we could get those two concepts together. 
+So a single shard world where people can actually build stuff. So that was the beginning and I started 
+to think about it, and I wrote a lot of text , a lot of thinking and brainstorming, and at some point 
+I realized that the technologies were ready. 
 
-I mean, the bandwidth, the cloud technologies that I explained already. I did some prototyping to setup what we call this continuous single shard technology to allow everybody to be present in the game at the same time.
+I mean, the bandwidth, the cloud technologies that I explained already. I did some prototyping to setup 
+what we call this continuous single shard technology to allow everybody to be present in the 
+game at the same time.
 
 And I made some testing, it worked, and then I decided to create the company.
 
-So the thing is that I had already investors that were following me from my previous venture, that were willing to actually support me into financing the early stages of the company. This is important to understand that we’re completely indepdenent because of that.
+So the thing is that I had already investors that were following me from my previous venture, 
+that were willing to actually support me into financing the early stages of the company. This is 
+important to understand that we’re completely indepdenent because of that.
 
-So we have been able to finance the beginning, hiring the first engineers, and getting the first prototypes that basically are seen in the videos we’ve published. So that’s the origin of the project.
+So we have been able to finance the beginning, hiring the first engineers, and getting the first 
+prototypes that basically are seen in the videos we’ve published. So that’s the origin of the project.
 
 It started in my head in 2011, and as a company it started in 2014, early in January.
 
@@ -107,31 +155,54 @@ Gray:
 
 Nice, okay so this has been going around for a little bit then, so this is something you’ve been working on.
 
-So we’re going to start just getting into some of the questions more about the game. getting into a little bit of more specific stuff here, especially some questions from the community. 
+So we’re going to start just getting into some of the questions more about the game. getting into a 
+little bit of more specific stuff here, especially some questions from the community. 
 
-I wanted to start off with this one. I imagine this is going to be on a lot of people’s minds. How is player death handled in the game?
+I wanted to start off with this one. I imagine this is going to be on a lot of people’s minds. How is 
+player death handled in the game?
 
 
 JC:
 
-Oh yeah. This is a crucial question for an mmo right? So there won’t be permadeath, quite obviously. That will be too punishing.
+Oh yeah. This is a crucial question for an mmo right? So there won’t be permadeath, quite obviously. 
+That will be too punishing.
 
-So basically when you die you respawn, you respawn in a place that we call a resurrection node. So it’s something that you can craft yourself, and then put anywhere you want yourself. And the rule will be that you resurrect in the closest resurrection node that is from the place where you died. 
+So basically when you die you respawn, you respawn in a place that we call a resurrection node. 
+So it’s something that you can craft yourself, and then put anywhere you want yourself. 
+And the rule will be that you resurrect in the closest resurrection node that is from the place where you died. 
 
-So you cannot select, otherwise you would use that to teleport yourself right? So it’s little things like that are important so the game doesn’t break.
+So you cannot select, otherwise you would use that to teleport yourself right? 
+So it’s little things like that are important so the game doesn’t break.
 
-So the point is that when you die , you resurrect in these resurrection nodes. It’s very interested because it will make these nodes very important strategic things, to protect, to hide. Maybe 500meters underground, who knows. And also as a military target, it will be something essential.
+So the point is that when you die , you resurrect in these resurrection nodes. 
+It’s very interested because it will make these nodes very important strategic things, 
+to protect, to hide. Maybe 500meters underground, who knows. And also as a military target, 
+it will be something essential.
 
-If you’re attacked by a fleet that arrives from a long distance from their original system, and attacks you, if they didn’t bring some resurrection nodes with them, you might actually send them back home by just killing them. So you see the implications by what this brings in terms of emergent gameplay is very exciting. So we don’t have specific places where you’re going to be reborn.
+If you’re attacked by a fleet that arrives from a long distance from their original system, and attacks you, 
+if they didn’t bring some resurrection nodes with them, you might actually send them back home by just 
+killing them. So you see the implications by what this brings in terms of emergent gameplay is very 
+exciting. So we don’t have specific places where you’re going to be reborn.
 
-That being said, I have to say that I’m talking on the vision of the game. What we want to have hopefully for the release, which is going to be maybe in 2018, that’s the plan. So, just to make it clear for people listening, I’m talking about the intentions of the thing we want to do. There’s a difference between that and what we are going to have in alpha, where we are going to simplify things. 
+That being said, I have to say that I’m talking on the vision of the game. What we want to have hopefully 
+for the release, which is going to be maybe in 2018, that’s the plan. So, just to make it clear for 
+people listening, I’m talking about the intentions of the thing we want to do. There’s a difference 
+between that and what we are going to have in alpha, where we are going to simplify things. 
 
 
-You know it takes a lot of time, a lot of money to build this, so we have to go progressively, and about the resurrection nodes for example, it’s very likely that we will not have this system implemented at the alpha stage because we have to make choices, and in the alpha stage you will simply respawn at the ark ship. Which is the ship that brought you to this planet with the other people, and is the origin ship where you step out when you enter the game. So, to simplify, in the beginning you just respawn at the arkship, but later on you will be able to position nodes where you will be able to resurrect yourself.
+You know it takes a lot of time, a lot of money to build this, so we have to go progressively, and about 
+the resurrection nodes for example, it’s very likely that we will not have this system implemented at the 
+alpha stage because we have to make choices, and in the alpha stage you will simply respawn at the ark ship. 
+Which is the ship that brought you to this planet with the other people, and is the origin ship where you 
+step out when you enter the game. So, to simplify, in the beginning you just respawn at the arkship, but 
+later on you will be able to position nodes where you will be able to resurrect yourself.
 
 Gray:
 
-Got it, okay. So, what would you say, now obviously like you said, the players have a lot of different ability, just you know, a lot of different abilities and things that they can do, it’s emergent gameplay, what would you say the goal of the game is? Does it vary from person to person, is there an over arching goal that people are looking to complete?
+Got it, okay. So, what would you say, now obviously like you said, the players have a lot of different 
+ability, just you know, a lot of different abilities and things that they can do, it’s emergent 
+gameplay, what would you say the goal of the game is? Does it vary from person to person, is there 
+an over arching goal that people are looking to complete?
 
 JC:
 
@@ -139,15 +210,24 @@ The short answer is no.
 
 [10:40]
 
-The idea is that this game is emergent, so there, while we may have a few quests or things like that, that will play like tutorials like things you know, but maybe even not that. We are not sure. But the core idea is that the things you experience, the things you live come from yourself and the other players.
+The idea is that this game is emergent, so there, while we may have a few quests or things like that, 
+that will play like tutorials like things you know, but maybe even not that. We are not sure. But the 
+core idea is that the things you experience, the things you live come from yourself and the other players.
 
-So, the goal of the game is driven players themselves. And there will be very different goals depending on different people, multi different things. Some people will want to build industrial empires, some people will want to have power and control you know a large military force and control some part of the galaxy. Some other people will just like to explore as a lone wolf, and so on and so on. And there are a lot of, what I would call, you know, gamers dreams, that you can dream. 
+So, the goal of the game is driven players themselves. And there will be very different goals depending 
+on different people, multi different things. Some people will want to build industrial empires, some 
+people will want to have power and control you know a large military force and control some part of 
+the galaxy. Some other people will just like to explore as a lone wolf, and so on and so on. And 
+there are a lot of, what I would call, you know, gamers dreams, that you can dream. 
 
-You enter this game and you dream about who you’re going to be. So you could be a pirate, you could be a politician, you could be an explorer a fighter, etc etc. 
+You enter this game and you dream about who you’re going to be. So you could be a pirate, you could be 
+a politician, you could be an explorer a fighter, etc etc. 
 
 So that will set for yourself different types of goals, right?
 
-And if you don’t have any specific desire, the idea is that other people may have plans. Let’s take an example, let’s say someone wants to build a death star, and I’m pretty sure that someone will want to do that at some point right?
+And if you don’t have any specific desire, the idea is that other people may have plans. Let’s take 
+an example, let’s say someone wants to build a death star, and I’m pretty sure that someone will 
+want to do that at some point right?
 
 Gray:
 
@@ -155,13 +235,21 @@ That’s probably on a lot of people’s minds, yeah haha.
 
 JC:
 
-That’s right, that’s right. Especially since you can actually build very huge stuff, we may talk about that a bit later a bit more, but anyways, someone wants to build a death star.
+That’s right, that’s right. Especially since you can actually build very huge stuff, we may talk about 
+that a bit later a bit more, but anyways, someone wants to build a death star.
 
-It’s not something you can do alone, there is too much materials to gather, too much planning to organize, too much logistic. You have to defend the building site, you have to hire mercenaries, I mean it’s a huge amount of -?- and there will actually occupy possibly thousands of players involved indirectly into the quest of building a death star.
+It’s not something you can do alone, there is too much materials to gather, too much planning to 
+organize, too much logistic. You have to defend the building site, you have to hire mercenaries, 
+I mean it’s a huge amount of -?- and there will actually occupy possibly thousands of players 
+involved indirectly into the quest of building a death star.
 
-So as you enter the game, you might just look at what jobs are available currently in the game, who’s offering what kind of jobs to do what. And you select what you like and what you want. You may find it interesting to contribute to the building of the death star, so you just do that. 
+So as you enter the game, you might just look at what jobs are available currently in the game, 
+who’s offering what kind of jobs to do what. And you select what you like and what you want. 
+You may find it interesting to contribute to the building of the death star, so you just do that. 
 
-So instead of having developers setting quests that will give you goals, we let the players, perhaps some of them, you know the more active players, create quests for others. And they are genuine quests, they’re real, they matter because they’re from the players themselves. 
+So instead of having developers setting quests that will give you goals, we let the players, 
+perhaps some of them, you know the more active players, create quests for others. And they are 
+genuine quests, they’re real, they matter because they’re from the players themselves. 
 
 So it’s very different, there are not only one goal, right? There will be several types of goals.
 
@@ -176,7 +264,8 @@ That’s the idea. Sometimes I want to call this game the ultimate dreaming mach
 
 You know, you get into the game, and you dream who do I want to be? 
 
-That’s something I really enjoy a lot in gaming in general, when I can actually picture myself becoming something , you know taking a role. Actually it’s a role playing game right? That’s the name.
+That’s something I really enjoy a lot in gaming in general, when I can actually picture myself 
+becoming something , you know taking a role. Actually it’s a role playing game right? That’s the name.
 
 So that’s all what this is about actually.
 
@@ -188,24 +277,43 @@ The game sort of having this flexibility, what can you tell us about how an econ
 
 JC:
 
-Yeah, that’s a very important point, because the economy will be the central hub where directly or indirectly connects every player. If you mine some resources, even if you’re a lone player, you don’t want to interact with others, you’re kind of single player the thing, you’re mining resources to make money, you sell those resources on the market and the other people who are buying those resources are doing something with them.
+Yeah, that’s a very important point, because the economy will be the central hub where directly or 
+indirectly connects every player. If you mine some resources, even if you’re a lone player, you 
+don’t want to interact with others, you’re kind of single player the thing, you’re mining resources 
+to make money, you sell those resources on the market and the other people who are buying those 
+resources are doing something with them.
 
-For example, they’re doing the death star right? So you’re contributing to the death star and so you don’t even know it. 
+For example, they’re doing the death star right? So you’re contributing to the death star and so 
+you don’t even know it. 
 
-So the economy is the central hub, and the way we want it to work is to be very realistic in the sense that markets are based on you know the way wall st’s working. We have buy orders, sell orders, and then through the pressure of supply and demand there is an equilibrium that builds that sets the right price for the asset. 
+So the economy is the central hub, and the way we want it to work is to be very realistic in the 
+sense that markets are based on you know the way wall st’s working. We have buy orders, sell orders, 
+and then through the pressure of supply and demand there is an equilibrium that builds that sets 
+the right price for the asset. 
 
 The right price is what the market says about it. Right?
 
-So we don’t have preset prices for anything, if more people want something and there is a limited amount of it, the price will go up. That simple.
+So we don’t have preset prices for anything, if more people want something and there is a limited 
+amount of it, the price will go up. That simple.
 
 
-So the economy will be based on that, and unlike other games, the places where you will have a market is again decided by the players themselves. Anyone can actually create a market anywhere if you have some resources, you know money etc, there will be some costs -?- of course, but you can create a market and if it becomes successful it might become a huge hub of economy in the game where people actually go. 
+So the economy will be based on that, and unlike other games, the places where you will have a market 
+is again decided by the players themselves. Anyone can actually create a market anywhere if you have 
+some resources, you know money etc, there will be some costs -?- of course, but you can create a 
+market and if it becomes successful it might become a huge hub of economy in the game where people actually go. 
 
-Because, the last point I may conclude on that is that things do not teleport magically into your inventory. If you buy a ship, right, on a remote market that is far away, on another planet right? 
+Because, the last point I may conclude on that is that things do not teleport magically into your 
+inventory. If you buy a ship, right, on a remote market that is far away, on another planet right? 
 
-You will have to actually travel there to get your ship. When you buy it, your ship, it’s yours, it’s there in the market container. So in a garage it will be waiting for you, you bought it, fine. But it’s not, I mean you have to go and get it, or you have to pay someone to actually convey it to you. So there will be logisticians people who are dealing with moving stuff around.
+You will have to actually travel there to get your ship. When you buy it, your ship, it’s yours, it’s 
+there in the market container. So in a garage it will be waiting for you, you bought it, fine. But it’s 
+not, I mean you have to go and get it, or you have to pay someone to actually convey it to you. So 
+there will be logisticians people who are dealing with moving stuff around.
 
-But, so that makes a big difference because then markets will have specialization and localization, or you could have a market in a remote area that is at war, and you will actually profit from taking the risk to bring materials and assets to this market through the war zone, so that people can buy it from there instead of having to go, you know, back and forth to a more popular market.
+But, so that makes a big difference because then markets will have specialization and localization, or 
+you could have a market in a remote area that is at war, and you will actually profit from taking the 
+risk to bring materials and assets to this market through the war zone, so that people can buy it from 
+there instead of having to go, you know, back and forth to a more popular market.
 
 So it will make very interesting emergent gameplay again. About managing the markets, managing the economy.
 
@@ -219,7 +327,10 @@ That’s pretty cool, so you can literally be a trader or almost like a smugglin
 
 JC:
 
-Absolutely. Absolutely. Right, yes yes. To some extent, some players will be able to do trading sitting in their home or their stations or wherever they want to sit with very powerful and , you know, if they’re skilled enough their trading skills, they will be able to trade from home, and just buy stuff and sell them. 
+Absolutely. Absolutely. Right, yes yes. To some extent, some players will be able to do trading sitting 
+in their home or their stations or wherever they want to sit with very powerful and , you know, if 
+they’re skilled enough their trading skills, they will be able to trade from home, and just buy 
+stuff and sell them. 
 
 They won’t even go and get them, they will just buy them and resell them a bit later.
 
@@ -228,84 +339,134 @@ So this is a pure trading activity for people who want to make money in the game
 
 Gray:
 
-Dual Universe utilizing voxel technology, what can you tell us a little about voxels, what can be done with them?
+Dual Universe utilizing voxel technology, what can you tell us a little about voxels, what 
+can be done with them?
 
 
 JC:
 
-Okay so this is also quite a unique feature that just a few games, and definitely not in the range of massively multiplayer games, that allow you to do what we do.
+Okay so this is also quite a unique feature that just a few games, and definitely not in the 
+range of massively multiplayer games, that allow you to do what we do.
 
-Which is basically that you can shape anything you want. Think of it as a sculpting tool. You can take matter that you acquire either through mining or by buying it on the markets, and then you can then put this matter into shape with the voxel technology.
+Which is basically that you can shape anything you want. Think of it as a sculpting tool. You can take 
+matter that you acquire either through mining or by buying it on the markets, and then you can then put 
+this matter into shape with the voxel technology.
 
-So the basic shapes are of course, there are cubes, there are spheres and things like that. We will gradually add more and more tools for people to be able to literally carve -?- and you know cut things and smooth things , and so on so you can actually create things the way you want.
+So the basic shapes are of course, there are cubes, there are spheres and things like that. We will 
+gradually add more and more tools for people to be able to literally carve -?- and you know cut 
+things and smooth things , and so on so you can actually create things the way you want.
 
-So this is one aspect of what we call building, which is about positioning the structure, the shape of things. There will be also, and this has nothing to do with voxels, -?- elements which are predefined meshes, so that you cannot modify those things, they are predefined by us. And they bring some functionalities, like an engine, or a radar, or a cockpit , weapon, etc. etc. etc.
+So this is one aspect of what we call building, which is about positioning the structure, the shape of 
+things. There will be also, and this has nothing to do with voxels, -?- elements which are predefined 
+meshes, so that you cannot modify those things, they are predefined by us. And they bring some 
+functionalities, like an engine, or a radar, or a cockpit , weapon, etc. etc. etc.
 
-There will be a lot of those things, and those elements, you can actually put on the shape structure that I just mentioned before. So that you position them where you want, and then you connect them and then you script them. We may discuss all of that a bit later if you want.
+There will be a lot of those things, and those elements, you can actually put on the shape structure 
+that I just mentioned before. So that you position them where you want, and then you connect them and 
+then you script them. We may discuss all of that a bit later if you want.
 
-The idea is that building a ship involves basically two stages, one which is to sculpt the shape of the ship with the hull and all those things, carefully choosing the materials by the way about their weight, about their resistance, about all sorts of things that will make it an interesting engineering activity for people who like that.
+The idea is that building a ship involves basically two stages, one which is to sculpt the shape of the 
+ship with the hull and all those things, carefully choosing the materials by the way about their weight, 
+about their resistance, about all sorts of things that will make it an interesting engineering 
+activity for people who like that.
 
-And the second phase is to put the elements on it, so that you get some functionality. So it can actually move, it adds engines, it adds weapons, it adds cargo bays if you want to transport things and so on and so on.
+And the second phase is to put the elements on it, so that you get some functionality. So it can 
+actually move, it adds engines, it adds weapons, it adds cargo bays if you want to transport 
+things and so on and so on.
 
-And this is how it is going to work, and on the voxel side, so there will be basically two types of voxel activities. Those that you do on the planet, which is mostly about mining stuff, taking things out of the planet. Also you can also put things on the planet, so you can build the opposite operation right? You can collect materials or deploy materials.
+And this is how it is going to work, and on the voxel side, so there will be basically two types of 
+voxel activities. Those that you do on the planet, which is mostly about mining stuff, taking things 
+out of the planet. Also you can also put things on the planet, so you can build the opposite 
+operation right? You can collect materials or deploy materials.
 
-But for that you will have a lower resolution of probably something like 1 meter, so the size of the underlying grid will be about 1 meter. For the voxels that you use on your ship, so you create a sort of local voxel grid if you want, when you finish it -?- 
+But for that you will have a lower resolution of probably something like 1 meter, so the size of the 
+underlying grid will be about 1 meter. For the voxels that you use on your ship, so you create a 
+sort of local voxel grid if you want, when you finish it -?- 
 
 Which is built with a core unit. 
 
-When you do that you have a 25 centimeter resolution. So it’s much more precise. You can do much more beautiful and detailed things. 
+When you do that you have a 25 centimeter resolution. So it’s much more precise. You can do much 
+more beautiful and detailed things. 
 
 So that’s about it about the voxels at the moment.
 
 
 Gray:
 
-Okay, you were saying something about the scripting. As I understand there’s something called LUA scripting, someone who’s never heard of that, how would you kind of describe that?
+Okay, you were saying something about the scripting. As I understand there’s something called LUA 
+scripting, someone who’s never heard of that, how would you kind of describe that?
 
 JC:
 
-Okay, so first of all I want to say for people who don’t like to script or don’t want to know about that, that they won’t have to.
+Okay, so first of all I want to say for people who don’t like to script or don’t want to know about 
+that, that they won’t have to.
 
-So this is something that will be for players with a little bit of background in programming. LUA is a scripting language which is very easy to learn, it is really easy to use., but for people who are not interested, let me just say , about, talk about that first, the thing is that you will be able to buy a ship that works from the market, so you don’t have to be interested or able to build to craft, to do scripting or anything, you can just buy a ship on the market and that’s it and it works.
+So this is something that will be for players with a little bit of background in programming. LUA is a 
+scripting language which is very easy to learn, it is really easy to use., but for people who are not 
+interested, let me just say , about, talk about that first, the thing is that you will be able to buy 
+a ship that works from the market, so you don’t have to be interested or able to build to craft, to 
+do scripting or anything, you can just buy a ship on the market and that’s it and it works.
 
-And by the way, you pick the one you will like, so there’s competition, and only the best ships are going to be selected and so on and so on.
+And by the way, you pick the one you will like, so there’s competition, and only the best ships are 
+going to be selected and so on and so on.
 
 [21:33]
 
-Now for people who are more into fine tuning the programming of the ship, yes there is LUA script. So what does it mean? It just means that when you have elements on your ship, right?, they are all of them they offer sorts of certain capabilities, that’s why they have functions, like an engine can activate its power, or a radar can send you information about what’s around you, or a weapon can fire right?
+Now for people who are more into fine tuning the programming of the ship, yes there is LUA script. 
+So what does it mean? It just means that when you have elements on your ship, right?, they 
+are all of them they offer sorts of certain capabilities, that’s why they have functions, like an 
+engine can activate its power, or a radar can send you information about what’s around you, 
+or a weapon can fire right?
 
-So each of these possibilities will be displayed in the lua scripting as what we call a method, or a function of an object. 
+So each of these possibilities will be displayed in the lua scripting as what we call a method, 
+or a function of an object. 
 
-The object is going to be reflecting the element, and a function is reflecting what the element can do.
+The object is going to be reflecting the element, and a function is reflecting what the element 
+can do.
 
-So scripting will about writing little programs that say when I press a certain key, which is an event that you can capture in the LUA architecture that we have, when I press a certain key I want a certain engine to activate with a certain value, right?
+So scripting will about writing little programs that say when I press a certain key, which is an event 
+that you can capture in the LUA architecture that we have, when I press a certain key I want a certain 
+engine to activate with a certain value, right?
 
 So that will actually stop your engine when you press a key.
 
-That’s the basic idea about how this is going to be happening. So there will be events triggered by you moving the mouse or pressing certain buttons, but also certain elements will be able to emit events, like a radar will tell you that something is happening, some ship is showing up, etc.
+That’s the basic idea about how this is going to be happening. So there will be events triggered by 
+you moving the mouse or pressing certain buttons, but also certain elements will be able to emit events, 
+like a radar will tell you that something is happening, some ship is showing up, etc.
 
-So you will be able to use these events to trigger some reaction from your construct, based on LUA that makes the glue between those two things.
+So you will be able to use these events to trigger some reaction from your construct, based on LUA 
+that makes the glue between those two things.
 
-Now if you don’t want to, I mean suppose you have built a nice ship and there are engines at the right places it should actually work, you’re happy with that, you don’t necessarily have to go into lua to script the way the engines are going to be activated, because we will have , we actually already have something that is called the autoconfigurator that will look at your ship and write the real code for you that does the normal thing you expect from a ship.
+Now if you don’t want to, I mean suppose you have built a nice ship and there are engines at the 
+right places it should actually work, you’re happy with that, you don’t necessarily have to go into 
+lua to script the way the engines are going to be activated, because we will have , we actually already 
+have something that is called the autoconfigurator that will look at your ship and write the real code 
+for you that does the normal thing you expect from a ship.
 
-So only people who really want to go into making some very advanced movements or you know maneuvers of the ship, they will be able to dig into the LUA scripting to do this kind of things.
+So only people who really want to go into making some very advanced movements or you know maneuvers of the 
+ship, they will be able to dig into the LUA scripting to do this kind of things.
 
-And if their fix is really cool, they can make a blueprint of this ship plus the LUA scripting, and this blueprint they can use it to make copies of the ship and sell it on the market.
+And if their fix is really cool, they can make a blueprint of this ship plus the LUA scripting, and this 
+blueprint they can use it to make copies of the ship and sell it on the market.
 
 So everyone can actually enjoy the efforts they’ve put into making this nice ship plus scripting.
 
-And of course they get a profit from that because he sells that on a market, so there is an incentive also to do this for the builder.
+And of course they get a profit from that because he sells that on a market, so there is an incentive 
+also to do this for the builder.
 
 
 Gray:
 
 
-So essentially it’s giving players like this very deep extra level of customization for their structure their item?
+So essentially it’s giving players like this very deep extra level of customization for their 
+structure their item?
 
 
 JC:
 
-That’s right, and the core idea is that you don’t need everybody to be able to use that deep layer for interesting content to emerge for everybody else if you have something like a market that can actually that can spread the innovations.
+That’s right, and the core idea is that you don’t need everybody to be able to use that deep layer for 
+interesting content to emerge for everybody else if you have something like a market that can 
+actually that can spread the innovations.
 
 Literally we’re talking about an economy with iteration, right?
 
@@ -313,7 +474,8 @@ So if you have a market that can spread that in the community, you have everybod
 
 So you don’t need everybody to be an expert in ship building, in scripting, etc.
 
-It’s all about specialization, that’s the core idea. And if you think about economy, that’s what it is about. 
+It’s all about specialization, that’s the core idea. And if you think about economy, 
+that’s what it is about. 
 
 I presume you don’t know how to build a car, well I don’t know how to build a car.
 
@@ -326,11 +488,13 @@ Sure hahaha
 JC:
 
 
-But you have all the talents that allow you to make money, and with that money you can buy your car.
+But you have all the talents that allow you to make money, and with that money you can 
+buy your car.
 
 So that’s the same idea. 
 
-We don’t expect everybody to be an expert in LUA scripting or even building ships and so on, this is a very important point.
+We don’t expect everybody to be an expert in LUA scripting or even building ships and so on, 
+this is a very important point.
 
 
 Gray:
@@ -345,37 +509,57 @@ JC:
 
 Ah, this is another important point.
 
-Territory is closely linked to what we call the right and duty management system, so it’s all about how you will be able to say for a given asset who has the right to use it who has the right to sell it, who has the right to benefit from it.
+Territory is closely linked to what we call the right and duty management system, so it’s all about 
+how you will be able to say for a given asset who has the right to use it who has the right to sell 
+it, who has the right to benefit from it.
 
-So I won’t go into details, because it would be a bit long, but the idea of a territory is that it’s a land asset.
+So I won’t go into details, because it would be a bit long, but the idea of a territory is 
+that it’s a land asset.
 
-Once you own a territory, which is basically something like a 1km radius area on a planet, you have the right to set the permissions for other people to mine this territory or to start building things on it, like having a house or something built on this territory.
+Once you own a territory, which is basically something like a 1km radius area on a planet, you have the 
+right to set the permissions for other people to mine this territory or to start building things on it, 
+like having a house or something built on this territory.
 
-You may also set entry rights, who has the right to enter the territory. It’s not set yet whether this will be a strong impossibility for people to enter the territory, or if they will just be flagged as outlaw if they do , if they enter even if they don’t have the right.
+You may also set entry rights, who has the right to enter the territory. It’s not set yet whether this 
+will be a strong impossibility for people to enter the territory, or if they will just be flagged as 
+outlaw if they do , if they enter even if they don’t have the right.
 
 So this is still in discussion, but the idea of a territory is that you get control of land assets.
 
-And to do that, you will be able, you will have to actually plant what is called a territory unit into this tile basically of space on the planet.
+And to do that, you will be able, you will have to actually plant what is called a territory unit into 
+this tile basically of space on the planet.
 
-And if you do that, then you acquire the territory. Of course people can actually take it back from you, you can attack this territory unit, you can hack it, you can take control of the territory if you don’t protect it enough.
+And if you do that, then you acquire the territory. Of course people can actually take it back from you, 
+you can attack this territory unit, you can hack it, you can take control of the territory if you don’t 
+protect it enough.
 
-So this is the rough idea about territory, and it will extend into space later. We have not yet decided exactly how this is going to be organized, but to start with territories will be on the planets. So the planet will be, you know, covered into hexagons you know, actually there will be several pentagons because as you know you cannot cover a whole sphere with hexagons, but that’s a detail.
+So this is the rough idea about territory, and it will extend into space later. We have not yet decided 
+exactly how this is going to be organized, but to start with territories will be on the planets. So the 
+planet will be, you know, covered into hexagons you know, actually there will be several pentagons because 
+as you know you cannot cover a whole sphere with hexagons, but that’s a detail.
 
-Mostly there will be hexagons on the surface of a planet, and you can acquire those hexagons by putting a territory unit on them. That’s the idea.
+Mostly there will be hexagons on the surface of a planet, and you can acquire those hexagons by putting a 
+territory unit on them. That’s the idea.
 
 
 Gray:
 
-So we’ve kind of been asking shaping the game here, something that I think people are interested in is like, you know, the lore of dual universe. As I understand there’s a short story taking place with inside of dual universe. What can you tell us about any kind of like story or lore of dual universe?
+So we’ve kind of been asking shaping the game here, something that I think people are interested in is 
+like, you know, the lore of dual universe. As I understand there’s a short story taking place with 
+inside of dual universe. What can you tell us about any kind of like story or lore of dual universe?
 
 
 JC:
 
-Yeah, we had a short written by -?- who is a very famous french writer who has written scifi and fantasy books that are a great success here in france. So we were super happy and pleased to have alan with us.
+Yeah, we had a short written by -?- who is a very famous french writer who has written scifi and 
+fantasy books that are a great success here in france. So we were super happy and pleased to have 
+alan with us.
 
-And the point is to actually give a bit context so that you -?- what’s the lore? I mean what’s the back story basically.
+And the point is to actually give a bit context so that you -?- what’s the lore? I mean what’s the 
+back story basically.
 
-It’s very classic, it’s not very original. The earth is going to be destroyed because we spotted a neutron star arriving through the galaxy.
+It’s very classic, it’s not very original. The earth is going to be destroyed because we spotted a 
+neutron star arriving through the galaxy.
 
 
 Gray:
@@ -388,19 +572,30 @@ Poor earth!
 JC:
 
 
-And that’s bad news, haha, and we have like 500 years to prepare an evacuation plan. So we have some arkships, as we call them, to actually get as much people out of this planet and try to rebuild civilization together on another planet somewhere else.
+And that’s bad news, haha, and we have like 500 years to prepare an evacuation plan. So we have 
+some arkships, as we call them, to actually get as much people out of this planet and try to rebuild 
+civilization together on another planet somewhere else.
 
-So we embark on a 10 thousand year journey in cryosleep to actually get to these other planets. So that’s the basic starting point.
+So we embark on a 10 thousand year journey in cryosleep to actually get to these other planets. 
+So that’s the basic starting point.
 
-And when you arrive with this arkship, you are taken out of cryosleep and you start with (a) completely empty world. Well not empty, it’s just that its just nature and you have to rebuild everything from scratch.
+And when you arrive with this arkship, you are taken out of cryosleep and you start with (a) completely 
+empty world. Well not empty, it’s just that its just nature and you have to rebuild everything 
+from scratch.
 
 So that’s the back story, it’s very classic, there is nothing special.
 
-But then in the short story of alan’s, he is describing what happens to one of those guys who just wakes up, the pain you go through because 10 thousand years in sleeping in cryosleep is very demanding and so what experience personally on that is very well written.
+But then in the short story of alan’s, he is describing what happens to one of those guys who just 
+wakes up, the pain you go through because 10 thousand years in sleeping in cryosleep is very demanding 
+and so what experience personally on that is very well written.
 
-I really recommend people explore the devblog or on the webpage at dualthegame.com if you go and you will see there is media with the novel, short story, sorry, that you can read. So it gives a bit of context and we hope that people will start from that to actually build fan stories and event things that give flesh to this universe.
+I really recommend people explore the devblog or on the webpage at dualthegame.com if you go and you 
+will see there is media with the novel, short story, sorry, that you can read. So it gives a bit of 
+context and we hope that people will start from that to actually build fan stories and event things 
+that give flesh to this universe.
 
-The second part of the lore, which is what happens when the arkship has landed, is going to be written by players themselves. That’s the idea.
+The second part of the lore, which is what happens when the arkship has landed, is going to be 
+written by players themselves. That’s the idea.
 
 
 Gray:
@@ -410,9 +605,13 @@ Okay!
 
 JC:
 
-There are other things that I think its too soon to talk about them right now, but we’re going to work on more about the lore. I mean, I cannot say yet, I would like to, but there will be things to discover in this universe. There will be things to understand, and there is a much bigger story actually going on that we will reveal, or actually players will understand as they progress.
+There are other things that I think its too soon to talk about them right now, but we’re going to 
+work on more about the lore. I mean, I cannot say yet, I would like to, but there will be things to 
+discover in this universe. There will be things to understand, and there is a much bigger story 
+actually going on that we will reveal, or actually players will understand as they progress.
 
-But the trick is that we want to make it so that it can last for several years. It has to be a big thing, so that you understand progressively.
+But the trick is that we want to make it so that it can last for several years. It has to be a big 
+thing, so that you understand progressively.
 
 This is difficult to do, that is not too obvious that people get it right away.
 
@@ -423,34 +622,51 @@ We would like to make that.
 
 Gray:
 
-Okay, so now I want to get into some of these, now these are some of the fun questions about the game, just kind of limits and things of that nature and this question here had probably been asked, everyone really wanted me to make sure I got this one, because I think I had been asked this one about five different ways.
+Okay, so now I want to get into some of these, now these are some of the fun questions about the game, 
+just kind of limits and things of that nature and this question here had probably been asked, 
+everyone really wanted me to make sure I got this one, because I think I had been asked 
+this one about five different ways.
 
 How big can the ships become?
 
-People have asked this in so many different ways. Can they become planet sized, can they become moon sized, death star sized, how big?
+People have asked this in so many different ways. Can they become planet sized, can they 
+become moon sized, death star sized, how big?
 
 
 JC:
 
 Okay so I have good news, haha.
 
-There is no technical limit to the size of the ships, because technically a planet and a ship are exactly the same thing in our technology.
+There is no technical limit to the size of the ships, because technically a planet and a ship are 
+exactly the same thing in our technology.
 
 So we don’t have any specific way to display ships.
 
-If you look at the planets in our videos, they display as you see very well, even at distance or close by. It’s the same technology to display the space ships, or the orbital station and things.
+If you look at the planets in our videos, they display as you see very well, even at distance or close 
+by. It’s the same technology to display the space ships, or the orbital station and things.
 
-Now the real question is not how big technology can -?- display things, its how much time it will take people to build it.
+Now the real question is not how big technology can -?- display things, its how much time it will take 
+people to build it.
 
-And I think that is the real limitation because there will be no shortcut, I mean you cannot just say okay let’s build a 10km long wall. Now you will have to build it, and you will have to gather friends, and you will have to organize to gather resources together, you will have to buy them on the markets, you will have to have a lot of people mining those things and so on. 
+And I think that is the real limitation because there will be no shortcut, I mean you cannot just say 
+okay let’s build a 10km long wall. Now you will have to build it, and you will have to gather friends, 
+and you will have to organize to gather resources together, you will have to buy them on the markets, 
+you will have to have a lot of people mining those things and so on. 
 
-So I think you have a similar question that we may discuss afterwards about the size of the universe, the thing is, the limit will be how much players are willing to invest to making these things, but technically the ships can be as big as you want.
+So I think you have a similar question that we may discuss afterwards about the size of the universe, 
+the thing is, the limit will be how much players are willing to invest to making these things, but 
+technically the ships can be as big as you want.
 
-the other limitations is if you want your ship to move, you have a problem is that the physics is real, so if you want something to move, you need to put the corresponding thrusters and engines so that the thing can move, right? 
+the other limitations is if you want your ship to move, you have a problem is that the physics is real, 
+so if you want something to move, you need to put the corresponding thrusters and engines so that the 
+thing can move, right? 
 
-So we have in mind things that are like the titan engines that would be like titanic sized, huge monstrous things. But in our simulations we run, I mean the huge space station that you’ve seen in the video would need like 26 of those titan engines to just move very slowly.
+So we have in mind things that are like the titan engines that would be like titanic sized, huge monstrous 
+things. But in our simulations we run, I mean the huge space station that you’ve seen in the video would 
+need like 26 of those titan engines to just move very slowly.
 
-Because it’s real, because it has a huge mass, because you need to put a lot of force so that you get decent acceleration when you have a lot of mass. So force equals mass per acceleration. 
+Because it’s real, because it has a huge mass, because you need to put a lot of force so that you get 
+decent acceleration when you have a lot of mass. So force equals mass per acceleration. 
 
 
 Gray:
@@ -459,36 +675,57 @@ So there’s a little bit of science to this as well.
 
 JC:
 
-Yeah, I love science. As I said, I’m a science guy, I had training in science and also in physics, so I really enjoy that. 
+Yeah, I love science. As I said, I’m a science guy, I had training in science and also in physics, 
+so I really enjoy that. 
 
-Now also at the same time, we want this to be fun, so you don’t need to come from nasa to be able to, for example I love also kerbel space program, but we will try to make it a bit more accessible because its not the only point of the game to actually design, control, technology for space craft.
+Now also at the same time, we want this to be fun, so you don’t need to come from nasa to be able to, 
+for example I love also kerbel space program, but we will try to make it a bit more accessible because 
+its not the only point of the game to actually design, control, technology for space craft.
 
-But anyway, there will be realistic physics in the sense that things that are heavy need a lot of power to move. So this might also be a limitation on how big ships can be.
+But anyway, there will be realistic physics in the sense that things that are heavy need a lot of power 
+to move. So this might also be a limitation on how big ships can be.
 
 
 [34:52]
 Gray:
 
-Okay great, well yeah I was a couple credits shy of my nasa degree. So I’m glad that you don’t need that sort of knowledge to be able to perform well. 
+Okay great, well yeah I was a couple credits shy of my nasa degree. So I’m glad that you don’t need 
+that sort of knowledge to be able to perform well. 
 
-Let me ask you this, so you’re talking about universe size and that sort of thing. How big is the game to like a real life scale? And this question has been asked like, you know, how big can the planets get? The distance the between planets, solar system size, what can you say about that?
+Let me ask you this, so you’re talking about universe size and that sort of thing. How big is the game 
+to like a real life scale? And this question has been asked like, you know, how big can the planets get? 
+The distance the between planets, solar system size, what can you say about that?
 
 
 JC:
 
 Yeah, so far there is 100km radius, the biggest one the one you saw in the videos. 
 
-We are not sure we should go much further in size for the planets. Because simply we want this to be not completely empty, we want people to actually be able to have a grasp the size of it. Visually see, you know, things that we recognize, a city here and things like that. 
+We are not sure we should go much further in size for the planets. Because simply we want this to be not 
+completely empty, we want people to actually be able to have a grasp the size of it. Visually see, you know, 
+things that we recognize, a city here and things like that. 
 
-If the planet would be big like the earth, I mean the earth is gigantic if you think about it. So you basically see nothing from space, you don’t see really cities except in the night of course, but you don’t see cities from space, they are just too small.
+If the planet would be big like the earth, I mean the earth is gigantic if you think about it. So you 
+basically see nothing from space, you don’t see really cities except in the night of course, but you don’t 
+see cities from space, they are just too small.
 
-So this is something we’ve been thinking a lot about, trying to find the right size of the planets. By the way, also finding ways to get players to actually have a reason to gather and build cities rather than spread and be independently living their lives. 
+So this is something we’ve been thinking a lot about, trying to find the right size of the planets. 
+By the way, also finding ways to get players to actually have a reason to gather and build cities 
+rather than spread and be independently living their lives. 
 
-Markets will play a big role in that obviously, because as I said they are physically localized and so on, everything I explained before.
+Markets will play a big role in that obviously, because as I said they are physically localized and so 
+on, everything I explained before.
 
-Now there’s another question that maybe is contained in what you just asked, is you know, how may planets there will be, how big is the universe? And the answer is, there is no limit to how big we can make the universe.
+Now there’s another question that maybe is contained in what you just asked, is you know, how may 
+planets there will be, how big is the universe? And the answer is, there is no limit to how big we 
+can make the universe.
 
-This is procedurally generated, that means that there is a mathematical function that generates those planets, so they are basically free to create. We could have ten billions of trillions of billions of planets if that matters for people to hear, but the point is that in this game, and it’s a bit like what I said about the size of the construct, getting to a distant part of the universe will involve you creating a sort of a probe that will physical travel over there, so that it can deploy a seed of a stargate that you can use once to jump there and start to build a stargaze.
+This is procedurally generated, that means that there is a mathematical function that generates those 
+planets, so they are basically free to create. We could have ten billions of trillions of billions of 
+planets if that matters for people to hear, but the point is that in this game, and it’s a bit like 
+what I said about the size of the construct, getting to a distant part of the universe will involve 
+you creating a sort of a probe that will physical travel over there, so that it can deploy a seed of a 
+stargate that you can use once to jump there and start to build a stargaze.
 
 There will actually be something you can use to go there in one jump instantly. 
 
@@ -497,95 +734,153 @@ But it will take to actually build this first stargate to a distant system.
 [37:36]
 
 
-Then once you’ve done that you will start another set of probes to go a bit further and that will take also real life time.
+Then once you’ve done that you will start another set of probes to go a bit further and that will 
+take also real life time.
 
-We’re thinking about having the probes taking between one week and perhaps even two months to actually get to another solar system. 
+We’re thinking about having the probes taking between one week and perhaps even two months to 
+actually get to another solar system. 
 
-So, again here the answer is that the size of the universe can be as big as you like, but in practice the time it will take for people to explore this universe and to create a network of stargates and to create the relevant markets and to have whatever economic structures deployed to this area, it will take time And this is what will decide the size of the universe. How many players and how much time they’ve invested into exploring this world.
-
-
-Gray:
-
-Okay, so if you wanna be a hermit and stay as far away from civilization as possible, you’ll definitely have that option.
-
-
-JC:
-
-You have that option, but you have to think, keep in mind that if you want to be a hermit, if you have certain needs you may have to do everything by yourself, which may take a huge amount of time. 
-
-So you will need a market so that you can use other players specialization for your own benefit. So you can be a hermit, but at least from time to time you will have to travel back to the civilized world to do your groceries basically and get back where you want.
-
-So, this is important to understand, the size of the universe will be decided by how far people are willing to explore. And by the way, as a consequence I think which is when you arrive in a certain area -?- that has been explored because you used a stargate to get there, there’s a good chance that this stargate has not been made for no reason. There’s probably some interesting materials to mine in this area, so there have been at least mining outposts that have been developed, things going on.
-
-So when you arrive in a certain of the universe, there is a chance that you will discover things made by other players. It’s interesting, it’s not just randomly or empty content that you will explore, it’s something that probably comes from players, and personally I find that very very exciting.
+So, again here the answer is that the size of the universe can be as big as you like, but in practice 
+the time it will take for people to explore this universe and to create a network of stargates and to 
+create the relevant markets and to have whatever economic structures deployed to this area, it will 
+take time And this is what will decide the size of the universe. How many players and how much time 
+they’ve invested into exploring this world.
 
 
 Gray:
 
-There’s a question here from the community that deals specifically with those stargate probes. It says, do star systems exist before stargate probes are sent to them, or do stargate probes create star systems within the game engine?
-
+Okay, so if you wanna be a hermit and stay as far away from civilization as possible, you’ll 
+definitely have that option.
 
 
 JC:
 
-We will probably have the stars already exist, in the sense that you will probably be able to scan them to have an idea of what is there. Or at least scan the sun, the type of sun, that is in this system, so that you can make educated guesses about the kind of materials that you may find on the planets orbiting this sun. 
+You have that option, but you have to think, keep in mind that if you want to be a hermit, if you have 
+certain needs you may have to do everything by yourself, which may take a huge amount of time. 
 
-So that you don’t spawn a stargate randomly anywhere, you have a certain reason to go in a certain area of the universe. That means that to some extent you will be able to analyze and look at the different things that exist already.
+So you will need a market so that you can use other players specialization for your own benefit. So 
+you can be a hermit, but at least from time to time you will have to travel back to the civilized 
+world to do your groceries basically and get back where you want.
 
-Now of course, nothing will be created on the server, nothing will be instantiated until somebody goes there. This is just elementary optimization of space and the resources that we have.
+So, this is important to understand, the size of the universe will be decided by how far people are 
+willing to explore. And by the way, as a consequence I think which is when you arrive in a certain 
+area -?- that has been explored because you used a stargate to get there, there’s a good chance that 
+this stargate has not been made for no reason. There’s probably some interesting materials to mine in 
+this area, so there have been at least mining outposts that have been developed, things going on.
+
+So when you arrive in a certain of the universe, there is a chance that you will discover things made by 
+other players. It’s interesting, it’s not just randomly or empty content that you will explore, it’s 
+something that probably comes from players, and personally I find that very very exciting.
 
 
 Gray:
 
-This question here, we were talking about earlier, just you and I about kind of the under representation of the space genre in these types of games, recently we’ve been having quite a few space games coming out, what makes dual universe stand out in your mind from the other recent space games coming out lately. Kind of what does it bring to the table uniquely?
+There’s a question here from the community that deals specifically with those stargate probes. It says, 
+do star systems exist before stargate probes are sent to them, or do stargate probes create star 
+systems within the game engine?
+
 
 
 JC:
 
-That is a very good question. The thing is that I believe many aspect of our gameplay, let’s say for example, building, you will find in other games that are somewhat specialized in that aspect.
+We will probably have the stars already exist, in the sense that you will probably be able to scan them 
+to have an idea of what is there. Or at least scan the sun, the type of sun, that is in this system, so 
+that you can make educated guesses about the kind of materials that you may find on the planets 
+orbiting this sun. 
 
-What you have in Dual Universe that is unique is that we have all of these different aspects, like exploration, building, politics, that are all put together to one single game. 
+So that you don’t spawn a stargate randomly anywhere, you have a certain reason to go in a certain area 
+of the universe. That means that to some extent you will be able to analyze and look at the different 
+things that exist already.
 
-And the big big difference is that we are a real mmo, a massively multiplayer online game, we have this thing I mentioned which is the continuous single shard, that means that everybody is playing in the same world at the same time, and they can interact with each other, and they can build cities.
+Now of course, nothing will be created on the server, nothing will be instantiated until somebody goes 
+there. This is just elementary optimization of space and the resources that we have.
 
-And this changes everything, because well let’s say mine craft, okay you build a wonderful castle in mien craft, or a spectacular spaceship in mine craft, well it doesn’t move anyway, but let’s say you’ve built something great. 
+
+Gray:
+
+This question here, we were talking about earlier, just you and I about kind of the under representation 
+of the space genre in these types of games, recently we’ve been having quite a few space games coming 
+out, what makes dual universe stand out in your mind from the other recent space games coming out 
+lately. Kind of what does it bring to the table uniquely?
+
+
+JC:
+
+That is a very good question. The thing is that I believe many aspect of our gameplay, let’s say for 
+example, building, you will find in other games that are somewhat specialized in that aspect.
+
+What you have in Dual Universe that is unique is that we have all of these different aspects, like 
+exploration, building, politics, that are all put together to one single game. 
+
+And the big big difference is that we are a real mmo, a massively multiplayer online game, we have this 
+thing I mentioned which is the continuous single shard, that means that everybody is playing in the same 
+world at the same time, and they can interact with each other, and they can build cities.
+
+And this changes everything, because well let’s say mine craft, okay you build a wonderful castle in mine 
+craft, or a spectacular spaceship in mine craft, well it doesn’t move anyway, but let’s say you’ve built 
+something great. 
 
 You’re going to show it to your friends, you’re going to make a video on youtube, that’s it.
 
-Now, if you have made a beautiful castle and this becomes actually the imperial palace of a huge empire in a real, I would say a real world, a real virtual world where there are lots of people involved, where there are political intrigues where things matter, where you have struggles, where, you know. 
+Now, if you have made a beautiful castle and this becomes actually the imperial palace of a huge empire 
+in a real, I would say a real world, a real virtual world where there are lots of people involved, where 
+there are political intrigues where things matter, where you have struggles, where, you know. 
 
-This changes everything, this construction that you’ve made acquires meaning because it’s part of this collective story. 
+This changes everything, this construction that you’ve made acquires meaning because it’s part of this 
+collective story. 
 
-So, I don’t know how to stress that enough, that you know, the aspect of having a unique universe, a universe shared by everybody that is a single shard, that everybody can live in at the same time, is changing everything profoundly in the kind of game experience you have. 
+So, I don’t know how to stress that enough, that you know, the aspect of having a unique universe, a 
+universe shared by everybody that is a single shard, that everybody can live in at the same time, is 
+changing everything profoundly in the kind of game experience you have. 
 
-Even though you may think, you know, that a particular feature, particular aspect of gaming, you may find in other games, but because it’s part of a continuous single shard, it changes everything.
+Even though you may think, you know, that a particular feature, particular aspect of gaming, you may 
+find in other games, but because it’s part of a continuous single shard, it changes everything.
 
 
 Gray:
 
-Okay, so talking about the size of the game and how it is massive and multiplayer, this one here says , how will you be able to find your friends inside of the game?
+Okay, so talking about the size of the game and how it is massive and multiplayer, this one here says, 
+how will you be able to find your friends inside of the game?
 
 
 JC:
 
-Okay, so, either you know your friends and you know their names so you can find, but I guess the question is how do you make new friends?
+Okay, so, either you know your friends and you know their names so you can find, but I guess the 
+question is how do you make new friends?
 
-The answer will be through, what is usually called a guild, we call it an organization. So a group of players that gather and that set themselves a goal, we want to empower it, we want to be a specific organization, we want to be smugglers, etc. etc.
+The answer will be through, what is usually called a guild, we call it an organization. So a group 
+of players that gather and that set themselves a goal, we want to empower it, we want to be a specific 
+organization, we want to be smugglers, etc. etc.
 
-So the thing is , these people, these organizations, they will actually be able to open and promote jobs and open positions on sort of a job market, something that you will be able to explore as a new player to see what kind of things are available in terms of type of gameplay, type of role-play offered by these organizations.
+So the thing is , these people, these organizations, they will actually be able to open and promote jobs 
+and open positions on sort of a job market, something that you will be able to explore as a new player 
+to see what kind of things are available in terms of type of gameplay, type of role-play 
+offered by these organizations.
 
-So we will try to make it, it’s very important, it’s hard to make it right. We are trying to make it very easy for people to look at what is there, what exists, what are the statements of these organizations. 
+So we will try to make it, it’s very important, it’s hard to make it right. We are trying to make 
+it very easy for people to look at what is there, what exists, what are the statements of 
+these organizations. 
 
-And if other organizations we have worked very hard to make it a generic concept, that is something that you can somehow specialize. There’s a lot of parameters which you can set, right? 
+And if other organizations we have worked very hard to make it a generic concept, that is something 
+that you can somehow specialize. There’s a lot of parameters which you can set, right? 
 
-So you can specialize to something that we call a nation, or a city, or corporation, it has some financial interests, or a gang of pirates that is more based on anarchy for example. 
+So you can specialize to something that we call a nation, or a city, or corporation, it has some 
+financial interests, or a gang of pirates that is more based on anarchy for example. 
 
-So we have tried to understand what are the general principles connecting all these different things, and made this concept of organization that you can specialize in these different types of political structures basically, that’s the idea.
+So we have tried to understand what are the general principles connecting all these different things, 
+and made this concept of organization that you can specialize in these different types of political 
+structures basically, that’s the idea.
 
-So, it’s all about organization. If you go, we just started a website, a community website, it’s called community.dualthegame.com , where people can already start now to create a character, or just state their character and put a picture, and more importantly they can create organizations and start to improve (-?-)
+So, it’s all about organization. If you go, we just started a website, a community website, 
+it’s called community.dualthegame.com , where people can already start now to create a character, 
+or just state their character and put a picture, and more importantly they can create 
+organizations and start to improve (-?-)
 
 
-And it’s amazing there are already more than 230 organizations that have been created, some of them have more than 60 members, I mean it’s pretty amazing. So this is something we really want to push push push, this is the core idea, creating groups of people, and setting roles for themselves, -?- trying to attract the new players to their goals. Let’s build a death star, right? that could be an organization.
+And it’s amazing there are already more than 230 organizations that have been created, some of them have 
+more than 60 members, I mean it’s pretty amazing. So this is something we really want to push push push, 
+this is the core idea, creating groups of people, and setting roles for themselves, -?- trying to attract 
+the new players to their goals. Let’s build a death star, right? that could be an organization.
 
 I didn’t look at all of them, but maybe there’s already one that has set this goal right? Maybe.
 
@@ -598,41 +893,63 @@ I’m sure that goal’s out there, I’m sure that’s going to happen, it may 
 
 JC:
 
-Well there is no, there won’t be any death star planet -?- annihilating way, I have to say that because that would be really too much punishing for the people on the planet. I mean you play the game, you’re making your little castle and suddenly one morning, blah! and its gone. This is too bad, we can’t get that -?- no.
+Well there is no, there won’t be any death star planet -?- annihilating way, I have to say that because 
+that would be really too much punishing for the people on the planet. I mean you play the game, you’re 
+making your little castle and suddenly one morning, blah! and its gone. This is too bad, 
+we can’t get that -?- no.
 
 
 Gray:
 
-Okay haha, I’m just saying I think that’s probably in someones idea or dream at some point, is to just try and do something that’s that large. Obviously there’s mechanics where you can’t quite be that terrible to people who spend their time in the game.
+Okay haha, I’m just saying I think that’s probably in someones idea or dream at some point, is to just 
+try and do something that’s that large. Obviously there’s mechanics where you can’t quite be that terrible 
+to people who spend their time in the game.
 
 
 JC:
 
 Oh yeah.
 
-We also, about destruction, about the thing that you can lose, your ship or things, there will never be any destruction of information. That is if you have a ship, there will be snapshots automatically taken that will allow you, provided you have the necessary resources, so it will cost you money in game, or time, but they will be able to rebuild this ship as it was.
+We also, about destruction, about the thing that you can lose, your ship or things, there will never 
+be any destruction of information. That is if you have a ship, there will be snapshots automatically 
+taken that will allow you, provided you have the necessary resources, so it will cost you money in game, 
+or time, but they will be able to rebuild this ship as it was.
 
 So there will never be any loss of information.
 
-The more important thing is that the efforts you’ve put over all these weekends to build this beautiful castle, this will never be lost, the other thing is that you may have to pay to acquire the materials right? So that you can rebuild it automatically with repair units.
+The more important thing is that the efforts you’ve put over all these weekends to build this beautiful 
+castle, this will never be lost, the other thing is that you may have to pay to acquire the materials 
+right? So that you can rebuild it automatically with repair units.
 
 
 Gray:
 
-Okay, so this question here says, how diverse will the planets be? will they all look like earth, or will there be cool alien planets as well?
+Okay, so this question here says, how diverse will the planets be? will they all look like earth, or 
+will there be cool alien planets as well?
 
 
 JC:
 
-There will be cool alien planets as well, it’s just, we call this , it’s technically called a biome, it’s just a set of assets that describe the kind of things you can encounter in a certain region. So we have forest biomes, we have plains, mountain biomes, and we have desert biomes so far, so that’s what we have.
+There will be cool alien planets as well, it’s just, we call this , it’s technically called a biome, 
+it’s just a set of assets that describe the kind of things you can encounter in a certain region. So 
+we have forest biomes, we have plains, mountain biomes, and we have desert biomes so far, 
+so that’s what we have.
 
 And we are going to develop more alien biomes to encounter things that are surprising. 
 
-So far they are all made by the artists we have, so we cannot do everything immediately, it takes time, but the plan is that we release continuously as we go, you know this game is not going to ship and that’s it goodbye, it’s an MMO so it’s going to hopefully, if the community is supporting us, if we have lots of people in the game, if it’s a commercial success, it will last for several years, maybe many many years, ten years I dunno, so over those years we are going to continually add more things.
+So far they are all made by the artists we have, so we cannot do everything immediately, it takes time, 
+but the plan is that we release continuously as we go, you know this game is not going to ship and 
+that’s it goodbye, it’s an MMO so it’s going to hopefully, if the community is supporting us, if we 
+have lots of people in the game, if it’s a commercial success, it will last for several years, maybe 
+many many years, ten years I dunno, so over those years we are going to continually add more things.
 
 So in particular, add more biomes.
 
-And the idea I had is that the strangest things you could encounter will be further further away from the arkship. That gives a motivation for explorers to actually go further and further away and so as you explore further and further away, that takes time. And it gives us time, actually, as a company, you know, to develop more and more interesting content that you will find on the fringe of the known universe as you keep exploring.
+And the idea I had is that the strangest things you could encounter will be further further away from 
+the arkship. That gives a motivation for explorers to actually go further and further away and so as 
+you explore further and further away, that takes time. And it gives us time, actually, as a company, 
+you know, to develop more and more interesting content that you will find on the fringe of the 
+known universe as you keep exploring.
 
 
 [49:54]
@@ -655,23 +972,37 @@ Okay! so everything’s going to be built by us?
 
 JC:
 
-That’s the key idea. I think you know, if you generate procedurally things, it’s completely fine for a single player that you play for maybe 10-20-30 hours, but if you consider again what I just said, I mean this game could last for 10 years, after ten years you will have seen it all , it will be a bit like the same thing that gets always recycled somehow.
+That’s the key idea. I think you know, if you generate procedurally things, it’s completely fine for 
+a single player that you play for maybe 10-20-30 hours, but if you consider again what I just said, 
+I mean this game could last for 10 years, after ten years you will have seen it all , it will be a 
+bit like the same thing that gets always recycled somehow.
 
-It’s very hard, now, it’s the guy who specialized in ai that’s speaking, it’s very hard to have creativity in machines and make things really surprising and interesting out of pure algorithms. So there is a limit to how far you can go in generating procedural content.
+It’s very hard, now, it’s the guy who specialized in ai that’s speaking, it’s very hard to have 
+creativity in machines and make things really surprising and interesting out of pure algorithms. So 
+there is a limit to how far you can go in generating procedural content.
 
-If you consider very long periods of time where people will basically have seen it all, so our vision is really that content should be created by the players themselves.
+If you consider very long periods of time where people will basically have seen it all, so our vision 
+is really that content should be created by the players themselves.
 
-And we believe ultimately, because of that, the quality of the content will be much greater than anything, any company with any financial support will ever be able to do.
+And we believe ultimately, because of that, the quality of the content will be much greater than anything, 
+any company with any financial support will ever be able to do.
 
-Because it’s the collective activity of maybe hundreds of thousands of people that you will be able to experience in the game.
+Because it’s the collective activity of maybe hundreds of thousands of people that you will be able 
+to experience in the game.
 
 And with the economy in the game, you get a selection process. 
 
-The nicest things will get selected by people buying it basically, and the ugly and not-nice or not-working things will just vanish, because just, I mean nobody buys them, and they just don’t exist in the economy. And this is the same thing in the real world economy if you think about it, right?
+The nicest things will get selected by people buying it basically, and the ugly and not-nice or 
+not-working things will just vanish, because just, I mean nobody buys them, and they just don’t exist 
+in the economy. And this is the same thing in the real world economy if you think about it, right?
 
-So, we have hopes that in the long run there will be an amazing amount of quality content that will emerge in the game, on average.
+So, we have hopes that in the long run there will be an amazing amount of quality content that will 
+emerge in the game, on average.
 
-So that doesn’t prevent you from finding some really ugly ship or ugly stuff from time to time -?- , but this should not be the majority I suppose. Because, you know you want to fly in a nice ship, so if you have a choice if you want to buy a ship, suppose you don’t build it yourself, you want to buy one, you’re going to pick a really nice looking ship right?
+So that doesn’t prevent you from finding some really ugly ship or ugly stuff from time to time -?- , 
+but this should not be the majority I suppose. Because, you know you want to fly in a nice ship, so if 
+you have a choice if you want to buy a ship, suppose you don’t build it yourself, you want to buy one, 
+you’re going to pick a really nice looking ship right?
 
 
 Gray:
@@ -683,56 +1014,87 @@ Sure! Well at least I would I guess yeah haha
 JC:
 
 
-But you can customize it afterwards and add your personal touch to it, change some parts, add some rooms, move some things. We’re thinking about the long run, having also sort of the possibility to sell this difference, this little add on that you’ve made to an existing ship that you bought on the market.
+But you can customize it afterwards and add your personal touch to it, change some parts, add some 
+rooms, move some things. We’re thinking about the long run, having also sort of the possibility to 
+sell this difference, this little add on that you’ve made to an existing ship that you bought 
+on the market.
 
 This should be able, this should be something you’re able to sell as an add on you see? 
 
-So you could buy a falcon x35 which is a famous ship that everybody buys, and you buy the add on made by graystillplays, that actually adds some super nice feature it, and you see it and combine those two things. 
+So you could buy a falcon x35 which is a famous ship that everybody buys, and you buy the add on 
+made by graystillplays, that actually adds some super nice feature it, and you see it and 
+combine those two things. 
 
 
 Gray:
 
-Yeah, I think my ship is going to be the floating bath tub, my skills at crafting definitely not too advanced yet haha.
+Yeah, I think my ship is going to be the floating bath tub, my skills at crafting 
+definitely not too advanced yet haha.
 
 
 
 JC:
 
 
-Well you know, if you, if its your ship and you like it and you have this personal relation to it, its your ship, its fine, it’s completely fine.
+Well you know, if you, if its your ship and you like it and you have this personal relation to it, 
+its your ship, its fine, it’s completely fine.
 
 
 Gray:
 
-Now this question here says, how will the game handle briefers and trolls. And it says, what they mean by that, is if you create a magnificent build, so that’s your castle or your amazing ship and you go offline, and someone has a giant fleet and destroys you overnight, will there be any way to stop that?
+Now this question here says, how will the game handle briefers and trolls. And it says, what they 
+mean by that, is if you create a magnificent build, so that’s your castle or your amazing ship and 
+you go offline, and someone has a giant fleet and destroys you overnight, will there be any way 
+to stop that?
 
 
 
 JC:
 
-Okay, so there are lots of things to say about that, because there is not one single mechanism that will answer/respond to that concern. It’s a concern, we are not aiming free form pvp and its mad max and you know, and basically as you enter the game you are going to be sniped.
+Okay, so there are lots of things to say about that, because there is not one single mechanism that 
+will answer/respond to that concern. It’s a concern, we are not aiming free form pvp and its mad max 
+and you know, and basically as you enter the game you are going to be sniped.
 
-No, we want to have a right balance between areas that we call safe zones, the first safe zone will be around the arkship. It’s going to be about 20km wide, safe zones where basically nothing bad can happen to you. No weapon can fire, no one can steal your stuff, and it’s completely safe, hence the name.
+No, we want to have a right balance between areas that we call safe zones, the first safe zone will 
+be around the arkship. It’s going to be about 20km wide, safe zones where basically nothing bad 
+can happen to you. No weapon can fire, no one can steal your stuff, and it’s completely safe, 
+hence the name.
 
-Then, there is this idea that you could unlock more safe zones on other planets by exploration, finding some artifacts or things that would be on these planets in certain areas that are completely random positioned, so you cannot use this as a strategic way to create a safe zone around a war area. You just don’t know where they are going to be.
+Then, there is this idea that you could unlock more safe zones on other planets by exploration, 
+finding some artifacts or things that would be on these planets in certain areas that are completely 
+random positioned, so you cannot use this as a strategic way to create a safe zone around a war area. 
+You just don’t know where they are going to be.
 
-So you will have several safe zones in the game that will actually allow you to build stuff peacefully, but you will actually have to secure territory most likely into these safe zones, that will be a bigger strategic thing to actually get those territories. 
+So you will have several safe zones in the game that will actually allow you to build stuff peacefully, 
+but you will actually have to secure territory most likely into these safe zones, that will be a 
+bigger strategic thing to actually get those territories. 
 
 But, that’s one answer okay?
 
-So there’s other answers, which one of them which I gave, which is that you never lose information, you have those snapshots that are taken automatically that will allow you to rebuild with a repair unit, to rebuild whatever construct you have made if it’s destroyed, or if its partially damaged. 
+So there’s other answers, which one of them which I gave, which is that you never lose information, you 
+have those snapshots that are taken automatically that will allow you to rebuild with a repair unit, to 
+rebuild whatever construct you have made if it’s destroyed, or if its partially damaged. 
 
 As long as you provide the right materials and the right energy to do it. 
 
-The other answers, is that you could be living hidden, we think that some people will just dig 1km below the surface and hide themselves under there. So things like that are also possibilities to be relatively quiet.
+The other answers, is that you could be living hidden, we think that some people will just dig 1km below 
+the surface and hide themselves under there. So things like that are also possibilities to be 
+relatively quiet.
 
-And finally, well its probably not finally , there will be more stuff, the last thing I’m thinking about is the fact that you will be able to create some protection bubbles. If you create, if you have enough energy to power them. They will not be impossible to destroy but they could be very hard to destroy.
+And finally, well its probably not finally , there will be more stuff, the last thing I’m thinking 
+about is the fact that you will be able to create some protection bubbles. If you create, if you have 
+enough energy to power them. They will not be impossible to destroy but they could be very 
+hard to destroy.
 
-So this will be a way for people to actually secure their assets with these protection shields, they will cost a lot of money, they will cost a lot of energy, so that will presumably motivate people to actually gather into huge stations or huge cities and you know, finance the need for this protection bubble together, so that its not so expensive. 
+So this will be a way for people to actually secure their assets with these protection shields, they 
+will cost a lot of money, they will cost a lot of energy, so that will presumably motivate people to 
+actually gather into huge stations or huge cities and you know, finance the need for this protection 
+bubble together, so that its not so expensive. 
 
 With fixed, basically like taxes, you know you pay to actually support the protection bubble. 
 
-So we think there are lots of answers, but definitely when you enter the game you will not be attacked you will be in a safe zone that will be protecting you.
+So we think there are lots of answers, but definitely when you enter the game you will not be attacked 
+you will be in a safe zone that will be protecting you.
 
 
 
@@ -740,16 +1102,21 @@ Gray:
 
 Okay, so now it says here, will there be NPC’s and creatures in the game, if so what kind?
 
-Obviously I guess everyone wants to know about the potential for space whales or something, how about this here?
+Obviously I guess everyone wants to know about the potential for space whales or something, 
+how about this here?
 
 
 
 
 JC:
 
-Well, we don’t know if we will have the resources to have this in the game as it launches. That is animals on the planets and things that you can hunt, or that could actually attack you. 
+Well, we don’t know if we will have the resources to have this in the game as it launches. That is 
+animals on the planets and things that you can hunt, or that could actually attack you. 
 
-I think really that, I think it’s a very good idea, it’s actually a fairly obvious idea, but it’s kind of expensive to make because you have to make all these animations, you have to create all this content, and we have limited resources. So, the short answer is that we can’t promise anything, but in principle there should be NPC animals, not people. 
+I think really that, I think it’s a very good idea, it’s actually a fairly obvious idea, but it’s kind 
+of expensive to make because you have to make all these animations, you have to create all this content, 
+and we have limited resources. So, the short answer is that we can’t promise anything, but in principle 
+there should be NPC animals, not people. 
 
 If you meet someone in the game, it’s a player, but npc animals will be good.
 
@@ -764,25 +1131,43 @@ It’s good to hear that they are a possibility, yes! haha
 
 JC:
 
-There is a possibility, you know one thing I want to say to everyone who is listening, or still listening after one hour, is that we really want to discuss with our community and to listen to what people want. We do that in an informal way at the moment in the forums, but we may actually make things to let people sort of vote or I don’t know if that’s the right way to do it, you know what I mean?
+There is a possibility, you know one thing I want to say to everyone who is listening, or still listening 
+after one hour, is that we really want to discuss with our community and to listen to what people want. 
+We do that in an informal way at the moment in the forums, but we may actually make things to let people 
+sort of vote or I don’t know if that’s the right way to do it, you know what I mean?
 
-To get people to express their preferences, so -?- for example if people really want whales in space, we would like to hear it and put it on top of our to do list basically. 
+To get people to express their preferences, so -?- for example if people really want whales in space, we 
+would like to hear it and put it on top of our to do list basically. 
 
-With strict control of the list because there are constraints about development, about things, so that’s the trick, I mean we cannot just let people decided in what order we do things because there are a lot of constrains that are hard to explain, or that are just unknown to people, but we would like to have the roadmap strongly influenced by what people really want.
+With strict control of the list because there are constraints about development, about things, so that’s 
+the trick, I mean we cannot just let people decided in what order we do things because there are a lot 
+of constrains that are hard to explain, or that are just unknown to people, but we would like to have 
+the roadmap strongly influenced by what people really want.
 
 
 Gray:
 
-Okay, so now it says here, will there be crafts and vehicles besides spaceships? such as handcrafts and underwater crafts.
+Okay, so now it says here, will there be crafts and vehicles besides spaceships? such as handcrafts 
+and underwater crafts.
 
 
 JC:
 
-Okay, so the way we see landcraft for the moment its that it’s going to be like hovercrafts, things that are basically like ships that cannot fly high, but would actually fly like say 1 meter above the ground. 
+Okay, so the way we see landcraft for the moment its that it’s going to be like hovercrafts, 
+things that are basically like ships that cannot fly high, but would actually fly like say 
+1 meter above the ground. 
 
-We have no plan yet for real vehicles on planets, so I think there are some technical issues with that. So that’s not sure we have that, and for underwater vehicles it’s the same thing, we have not given thought to it at the moment, but it could be done of course, it would be very nice, it would be very nice to have submarines and things like that, it’s clearly on the todo list at some point we will look at that but it’s not in the priorities. 
+We have no plan yet for real vehicles on planets, so I think there are some technical issues with that. 
+So that’s not sure we have that, and for underwater vehicles it’s the same thing, we have not given 
+thought to it at the moment, but it could be done of course, it would be very nice, it would be very 
+nice to have submarines and things like that, it’s clearly on the todo list at some point we will look 
+at that but it’s not in the priorities. 
 
-So far what we will have is ships and hovercrafts to travel on the planet, and also walking, you can walk. So that’s perfectly fine. We will actually make it not free to travel with a ship or with hovercraft actually, so you have to finance the fuel for it, you have to , there’s energy concerns and things like that. So for smaller distances, walking should be preferred and natural way to deal with these things.
+So far what we will have is ships and hovercrafts to travel on the planet, and also walking, you can 
+walk. So that’s perfectly fine. We will actually make it not free to travel with a ship or with hovercraft 
+actually, so you have to finance the fuel for it, you have to , there’s energy concerns and things 
+like that. So for smaller distances, walking should be preferred and natural way to deal 
+with these things.
 
 
 
@@ -790,9 +1175,12 @@ So far what we will have is ships and hovercrafts to travel on the planet, and a
 
 Gray:
 
-Okay I know we’re coming up here on an hour here that you and I have been talking about these different questions.
+Okay I know we’re coming up here on an hour here that you and I have been talking about these 
+different questions.
 
-So there’s just a few questions that are kind of maybe just yes or no questions, I want to get at least some of those out of the way, to try and hit em. I had a lot of questions coming from the community.
+So there’s just a few questions that are kind of maybe just yes or no questions, I want to get at 
+least some of those out of the way, to try and hit em. I had a lot of questions 
+coming from the community.
 
 
 So let’s do it, here we go.
@@ -802,7 +1190,8 @@ Will there be cosmic phenomenas like black holes?
 
 JC:
 
-No, not yet, we have no plan for that for the moment, but it’s a cool idea, we would love to think about it.
+No, not yet, we have no plan for that for the moment, but it’s a cool idea, we would love 
+to think about it.
 
 
 Gray:
@@ -834,22 +1223,29 @@ In other words a mobile command station or a mobile base.
 
 JC:
 
-Absolutely, there is no limitation on the fact that the ship is moving, you could have 100 people on the ship and the ship is moving and that’s fine. You can build on it, I mean, there’s no problem attached to the fact that the ship is moving or in movement. No problem.
+Absolutely, there is no limitation on the fact that the ship is moving, you could have 100 people 
+on the ship and the ship is moving and that’s fine. You can build on it, I mean, there’s no problem 
+attached to the fact that the ship is moving or in movement. No problem.
 
 
 
 Gray:
 
-If you destroy terrain, what sort of physics based repercussions will it have, will flowing water go in different ways, will caves collapse?
+If you destroy terrain, what sort of physics based repercussions will it have, will flowing water 
+go in different ways, will caves collapse?
 
 
 JC:
 
 No, no flowing water, this is a very difficult problem when you have planet sized -?-
 
-Imagine a huge mountain with a lake on top and you dig a little hole at the bottom, you can imagine the engineering problem going on. So we may have local water flow at some point, that basically stops when you go further away. 
+Imagine a huge mountain with a lake on top and you dig a little hole at the bottom, you can 
+imagine the engineering problem going on. So we may have local water flow at some point, that 
+basically stops when you go further away. 
 
-And about the destruction of, I mean if you cut some mountain underneath, it will still float in the air. Again for the same reasons because calculating disconnections of areas on large scales will simply be not practical.
+And about the destruction of, I mean if you cut some mountain underneath, it will still float in the 
+air. Again for the same reasons because calculating disconnections of areas on large scales will 
+simply be not practical.
 
 I don’t think it brings anything unique -?- very interesting gameplay, so we won’t have that. 
 
@@ -868,62 +1264,94 @@ It’s the story of mankind rebuilding civilization, as I said together on a new
 
 Gray:
 
-Okay, that’s awesome. So we managed to get rid of all of the yes or no questions. So this is kind of the one I’m going to leave with and this may take a little bit more explanation for this one and it says, basically, how, considering all of the crafting and all of the items that can be built, the structures and the cities and everything, is there a way, or what are your plans for any kind of performance issues that maybe other games have had, how do you plan on people being able to render those types of things and being able to play the game, and the stability of the game itself with all those objects?
+Okay, that’s awesome. So we managed to get rid of all of the yes or no questions. So this is kind of 
+the one I’m going to leave with and this may take a little bit more explanation for this one and it 
+says, basically, how, considering all of the crafting and all of the items that can be built, the 
+structures and the cities and everything, is there a way, or what are your plans for any kind of 
+performance issues that maybe other games have had, how do you plan on people being able to render 
+those types of things and being able to play the game, and the stability of the game itself with 
+all those objects?
 
 
 
 JC:
 
-Okay, so the answer that is that from the start the architecture of everything we have done was made with the idea that you can have huge things.
+Okay, so the answer that is that from the start the architecture of everything we have done was made 
+with the idea that you can have huge things.
 
-So we things that are very classic actually, called level of details. Which I think, other games don’t necessarily use as far as I understand, so that you have a degradation of the quality of the visual quality of things.
+So we things that are very classic actually, called level of details. Which I think, other games don’t 
+necessarily use as far as I understand, so that you have a degradation of the quality of the visual 
+quality of things.
 
 When you look to them from a distance, the further you look the less detailed they are basically. 
 
-So that allows us to maintain a standard level of load, of CPU or graphic rendering no matter how big or large stuffs are. 
+So that allows us to maintain a standard level of load, of CPU or graphic rendering no matter how big 
+or large stuffs are. 
 
-So in principle this should work. Now we didn’t test with ten thousands of ships with fifteen thousand people moving, I mean in principle and the mathematical models that we have and testing we’ve done so far, everything works.
+So in principle this should work. Now we didn’t test with ten thousands of ships with fifteen thousand 
+people moving, I mean in principle and the mathematical models that we have and testing we’ve done 
+so far, everything works.
 
-So the final answer will be when the game starts, and when the players are in game. So that will be the final test. But all our testing so far have been working.
+So the final answer will be when the game starts, and when the players are in game. So that will be 
+the final test. But all our testing so far have been working.
 
-The way we test is that we rent machines on Amazon and we spawn sort a virtual clients with them so we that we can attack our server and test the load in this way. So on the server technology and on the rendering technology, everything we have done has been made with that idea in mind, and on purpose its been designed to be able to withstand heavy load.
+The way we test is that we rent machines on Amazon and we spawn sort a virtual clients with them so 
+we that we can attack our server and test the load in this way. So on the server technology and on the 
+rendering technology, everything we have done has been made with that idea in mind, and on purpose its 
+been designed to be able to withstand heavy load.
 
 So, that’s all I can say at the moment.
 
 
 Gray:
 
-Okay, well, you know, that’s pretty much it man. I think we’ve covered all the questions for the most part, and I really appreciate again just the time and the detail that you went into in a lot of these questions, because there’s some selfishness for me here, I had a lot of these same questions, I was very interested about them, and it was just cool to finally be able to get some of that really detailed interesting answers on them. 
+Okay, well, you know, that’s pretty much it man. I think we’ve covered all the questions for the most 
+part, and I really appreciate again just the time and the detail that you went into in a lot of these 
+questions, because there’s some selfishness for me here, I had a lot of these same questions, I was 
+very interested about them, and it was just cool to finally be able to get some of that really detailed 
+interesting answers on them. 
 
-So I just wanted to say thank you for your time to take the time to answer these questions from the community, we all really appreciate that.
+So I just wanted to say thank you for your time to take the time to answer these questions from the 
+community, we all really appreciate that.
 
 
 JC:
 
-You’re most welcome, I mean I really enjoy, I want to -?- , we want to exchange with the community, we want to have discussions like that. It’s really nice, we appreciate all the feedback.
+You’re most welcome, I mean I really enjoy, I want to -?- , we want to exchange with the community, 
+we want to have discussions like that. It’s really nice, we appreciate all the feedback.
 
-I encourage people, I know its a lot of text, but anyway, you go on the devblog, devblog.dualthegame.com, there are lots of things that have been written describing a lot of things we have been discussing here. Like the resurrection nodes, the economy, the voxel building, the organizations, etc, and so on and so on.
+I encourage people, I know its a lot of text, but anyway, you go on the devblog, devblog.dualthegame.com, 
+there are lots of things that have been written describing a lot of things we have been discussing here. 
+Like the resurrection nodes, the economy, the voxel building, the organizations, etc, and so on and so on.
 
-So, for people who really want to dig into what is Dual Universe, there is a lot of material that you can access right now going on this devblog, going on the website, and for everything that is missing we’re going to publish more things, and I really enjoy having these discussions with you, being able to explain what we have in mind and when dual universe is going to be released.
+So, for people who really want to dig into what is Dual Universe, there is a lot of material that you 
+can access right now going on this devblog, going on the website, and for everything that is missing 
+we’re going to publish more things, and I really enjoy having these discussions with you, being able 
+to explain what we have in mind and when dual universe is going to be released.
 
 Thank you!
 
 
 Gray:
 
-Fantastic, I’m going to go ahead and put those links in the description below so that everyone can be able to access those links, again JC thank you for your time. I know that you obviously have some important things to do, so I’ll let you get going, and that’s going to be it for now guys. 
+Fantastic, I’m going to go ahead and put those links in the description below so that everyone can be 
+able to access those links, again JC thank you for your time. I know that you obviously have some 
+important things to do, so I’ll let you get going, and that’s going to be it for now guys. 
 
 Is there anything else that you’d like to say before we go ahead and end it here?
 
 
 JC:
 
-Well thank you again for having me and just keep an eye the newsletter, the Facebook, twitter and all the community tools that we have. We communicate a lot, we want the feedback as I said, so that’s it, just join us in discussions.
+Well thank you again for having me and just keep an eye the newsletter, the Facebook, twitter and all 
+the community tools that we have. We communicate a lot, we want the feedback as I said, so that’s it, 
+just join us in discussions.
 
 
 Gray:
 
-Alright, well everyone hope you enjoyed this little communication and interview with JC, until the next time stay foxy and much love.
+Alright, well everyone hope you enjoyed this little communication and interview with JC, until the next 
+time stay foxy and much love.
 
 
 ==============================
