@@ -1,0 +1,101 @@
+https://www.youtube.com/watch?v=QeZtqoydXpc
+
+
+
+Hello this is JC from Novaquark.
+
+Welcome to dual universe dev diary. This time we’ll have a closer look at the 
+server technology.
+
+As you know, Dual Universe is an upcoming Sandbox SciFi MMORPG, which is focused 
+on emergent gameplay and building.
+
+All this taking place in what we call a continuous single shard, which means 
+that everybody is going to be playing the same universe at the same time. 
+
+One big server, no instances, no zones.
+
+Together you’ll be free to create cities, spaceships, or giant orbital stations, 
+as well as political, territorial or social structures.
+
+Well as you can imagine, this raises quite challenging technical questions. 
+
+So, let me show you exactly what this is about.
+
+This is a debug view of the server, showing the players connected to it as 
+small white dots.
+
+You can see that the universe is dynamically partitioned into cubic cells, and 
+as the players go closer to each other towards the center, the cells get smaller 
+and smaller to maintain an average maximum number of players per cell and 
+distribute the load.
+
+So you can think of each cell as being roughly like a particular machine on 
+the server cluster.
+
+Now, let’s have a look at how it shows inside the game. 
+
+Here, we have a client connected to the server, and you can see all the players 
+actually gathering to the center. Each player you see is an actual client that 
+we fully simulate, as to effectively test the load on the architecture. 
+
+So they are real, and in particular they are all getting the updates about each 
+others position as they move.
+
+You can see in the upper left corner how the dynamic space splitting goes 
+inside the server. 
+
+The other important aspect, is that the further away a player or an entity is, 
+the less frequently it gets updated.
+
+Here you can see the name of the player is blinking every time there is an update, 
+so as you can see when we zoom, further away players are less frequently updated 
+than those nearby.
+
+And the loss of update frequency is compensated by interpolation techniques. 
+
+Now let’s how this looks like in a more realistic game situation.
+
+A bit more than one thousand players have been spawned in a few hundred meters 
+wide area, and they are moving around.
+
+Again, each of these players is a full fledged simulated client, they actually see 
+each other and can interact each other and with me as a game client as it would be in 
+a real game world situation.
+
+You can see there’s really a lot of players, maybe on screen perhaps few hundreds.
+
+So more virtual clients means more servers rented for testing, so we are currently 
+limited in how far we can push this until we have actual players connected.
+
+But so far, our models run as expected.
+
+The max distance at which we can see an entity depends on its size. So, while we only 
+see players here, keep in mind that the way things work extends to large scale entities 
+like ships, that we can see from much further away. 
+
+Here again we dynamically play with frequency to maintain a reasonable load. 
+
+Now, if I get further away from the planet and activate this debug info, you can see 
+the players as I get further away. Now we can see maybe 700, 800 of them. And all of 
+them are still moving in a fluid way.
+
+As you can see, we can have a very high density of players in a continuous single shard 
+universe, and this allows us to build a truly massively multiplayer game, where large 
+scale emergent interactions will be able to take place.
+
+Thanks for watching, and don’t hesitate to visit us on our website, forum or devblog 
+for more information on this technology, and join the newsletter to get the latest news.
+
+See you soon in Dual Universe!
+
+
+
+==============================
+
+Published on Aug 16, 2016
+
+Dual Universe is a continuous single-shard sandbox MMORPG taking place in a multi-planets 
+Sci-Fi world with player-driven in-game economy, politics, trade and warfare. Players can 
+freely modify the world by creating structures, space ships or orbital stations, giving 
+birth to empires and civilizations.
