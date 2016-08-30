@@ -1,0 +1,308 @@
+https://www.youtube.com/watch?v=m1WMwIDWFKI
+
+
+CaptainShack:
+
+The E3 PC Gamer show had some surprises, but none more shocking for me than a game company claiming they’re making what basically equates to my dream game.
+
+A massive multiplayer sandbox creative crafting title set in space, where players can build massive starships, space stations, even large cities on the surface of planets.
+
+To be honest, I didn’t think it was possible and after the show I went back to my hotel room and did a video with another youtuber talking about just that. How much BS we thought the trailer was.
+
+The next day I found myself waiting behind a giant Buddha statue. No I’m not in line to get my picture taken on top of this giant fat Chocobo, I’m waiting for the developer of Dual Universe to meet up with me for an interview.
+
+You see that same night we recorded our impressions of the trailer, he watched the video and contacted me on Twitter wanting to set the record straight.
+
+Quick introductions and a few minute of searching for a relatively quiet place to chat, we quickly dove into the project, Dual Universe.
+
+Before I could even get my recording gear out he had his laptop on, and to my surprise, a booted up instance of Dual Universe right in front of me. 
+
+Keep in mind, this is on a laptop, running the server and client software. Zooming in and out of planets, around stations and ships with little to no load popping. It wasn’t nearly as smooth as the trailer showed, but for being on a laptop and running both client and server, he had my attention. 
+
+Fumbling with my gear, and wanting to record everything, I’m told the footage of the game that I’m looking at isn’t ready for public release. And before I can hit the record button on my audio equipment, the laptop is put away.
+
+So, who is behind such a massively ambitious project I ask.
+
+
+JC: 
+
+Sure, I am JC Baillie, I’m the founder of NovaQuark. 
+
+
+CaptainShack:
+
+And you surprised everybody I think at the PC Gamer Show. You came out with this trailer that was, for everybody on my channel you guys know, probably the ultimate scifi space crafting sim. 
+
+And we did that quick video of it, but you contacted me , just like “let’s talk about how not only was that just a trailer, but that actually works”, I’ve just seen a little bit of the demo and it was very impressive.
+
+
+JC:
+
+Yeah, thanks for having me, and actually I realized that people might be skeptical about, you know, is this real, is this something that works?
+
+And I wanted to show you that, so that you’ve seen it with your eyes. We have a lot of very complex technology that we have been developing for several years. So there is a breakthrough, there is something new on the scene that enables to do the things you have seen in the teaser. It’s real.
+
+
+CaptainShack: 
+
+I know it’s real now, cause I’ve actually seen some of the demo, and it’s really impressive what you guys have done so far.
+
+Please could you give, you were talking about your background with me just a little while ago, could you tell the audience what your background is?
+
+
+JC:
+
+Yeah sure, well I’m a science guy with a PhD in Robotics and AI. Before doing games, I managed AI research labs. I worked also at Aldebaran Robotics, they are doing the NAO robot, some people will know that. 
+
+So, I’m you know, I’m just also a gamer. I really like gaming, I’ve played a lot of games that I think you like also, and I wanted to do something more. So using my background in science and computer science in particular, I tried to devise an algorithm to solve this difficult problem to make this real, and after prototyping and testing I convinced myself that it was working and I started this company in 2014.
+
+So thats the idea, that’s the story. 
+
+There is no real link between what I did before, and that, it’s just, where the link is scifi basically, I mean I like scifi stuff.
+
+
+CaptainShack:
+
+Indeed, I mean you have to love scifi to build something of this incredible scale. I mean you guys are going for full rendered planets, which I just saw on a laptop no less running fairly well.
+
+You’d assume this would be running on a major server somewhere at some point right?
+
+[3:48]
+
+
+JC:
+
+Yeah, the key to make this work and to make it also interesting is to have one continuous single shard, as I briefly explained during the interview and what does it mean?
+
+It means that the everybody lives in the same world at the same time, and this world never stops and is persistent. So to do that, you need not only one server, obviously, you need a cluster of machines and you need a technology, you know algorithms, to balance the load and make that work.
+
+It’s not easy. As I said there’s a lot of new ideas and a new way of handling this problem that we’ve solved. We’ve done a lot of testing and load balancing and testing what we have, and so far it behaves as, I would say, as the mathematical models are predicting, so it’s looking encouraging.
+
+
+
+CaptainShack:
+
+Yeah, you showed me a brief video showcasing kind of how the server handles multiple clients, and we’re talking hundreds of clients. I think one of them you showed me had maybe a thousand connected at some point, and it was keeping track. It’s a unique technology, could you explain a little bit about the technology that will allow for players to have these huge crews or all of these people on a planet and still keep track of all of that and ships moving around?
+
+
+JC:
+
+Okay, so I’ll just give you a hint of what it is, because as I said it’s a bit complex. It’s what we call dynamic space splitting. So when we have a volume of space that becomes overcrowded, then the space itself gets split into smaller spaces that get distributed to other servers, and this is done completely transparently for the places.
+
+So that is one aspect. The other aspect is that when people are far away, the frequency of updates of their position is going to decrease. So we use these two things together to maintain sort of constant bandwidth no matter how dense the density of people is. And in practice what does it mean for the player, is that when you are in a very highly crowded area, people who are going to be near you are going to be fluid but the further away, and the more they are going to be, well they are still going to be fluid because there will be interpolation, but they are going to be updated less and less frequently.
+
+So basically they are going to live in the past, and they are going to be less accurate. But it doesn’t matter because we are not doing an FPS, you know it’s not the point, it’s not to make something you know, where everything is absolutely is accurate no matter how far it is. So we have abandoned that aspect, we sacrificed that for the benefit of being in this continuous single shard. You never have a zone or something, you know, abstract to cross. You’re free to move where you want.
+
+
+CaptainShack:
+
+That is, the one shard idea, I mean, having come from games like Eve Online where they try to do that one shard, and not really able to keep the big player battles going smoothly. Do you think this technology will allow for that many players to interact, maybe in violent ways, you know, with ships and fleet battles and whatnot in a universe, where you, I mean we’ll talk about gameplay mechanics in just a second, but just the mechanics of that, will that be possible?
+
+
+JC:
+
+Well in principle yes, but now we are in the stage where we need to do testing. We also have to define precisely how the combat is going to happen. It’s not going to be, you know, I shoot and I fire in realtime, it’s going to be more like lock and fire. 
+
+So you lock something, a bit like in Eve actually, once you’ve locked something you can fire on it based on your skills, the level of the weapon and all sorts of parameters, then you have a chance to hit. That’s the basic idea.
+
+So how far we can go in scanning large battles with that pattern, only heavy testing will tell us. But in principle, knowing again that things that are far away are going to be sort of out dated, you may see a ship that is actually not there anymore, so this is a limit to how accurate the simulation be for super large battles. 
+
+But with that limit in mind, you could have thousands of ships interacting with each other and fighting, we’ll see. But one thing I want to say also, is the game is not all about spaceships fighting each other. This is typically more or less what is Eve online, which is a lot of economy and all sorts of very interesting things. 
+
+But for us, we want also to attract people who are into the building business of creating ships, creating large structures, cities and so on. 
+
+
+CaptainShack:
+
+I think this was the part that got our attention the quickest, we’ve played a lot of these construction crafting games, and the fact that you’re making an MMO with that kind of concept there, I mean, but what you didn’t show in the trailer was the voxel manipulation of terrain, and I just saw that and it works, and it looks like it works great.
+
+So, you’re talking about building, you’ve talked about an economy at the pcgamer show, can you explain a little bit more about the game mechanics there, because when you say those things, immediately your mind might go to Eve Online, you might <?> other space sims.
+
+Can you tell us a little bit about that?
+
+
+JC:
+
+The big difference with, for example Eve Online, is that we don’t have a predefined set of ships that you can build and then sell. The first stage for the players is to build their own ship, some people will do that very well, they will do super nice ships. And once you have done one ship, tested it, it works, it’s nice, you can actually make a blueprint. And from that blueprint you can actually copy this ship with factories and make several copies of it.
+
+You can actually, even not manage yourself the copying process, you just design the ship, you make the blueprint, and you sell the blueprints to industrial people who are going into manufacturing, but it’s not your problem.
+
+So you have a kind of real reproduction of how the real economy is working, from collecting resources, transforming, having innovation to craft things, and then selling it.
+
+But at the end of the day, you sell your ship, or somebody else sells your ship, and you have a real market that people can actually create. So you can setup a market anywhere you want, compete with other market. 
+
+There will be fees that you can set to make them more or less attractive and so on, and based on that your ship is going to sell or not. And that will define whether your ship is seen everywhere, or if it’s just a failure and your thing doesn’t interest people. And everybody wants to fly in a nice ship, right?, so I expect that in the long run, you will see mostly cool stuff going around because that’s what’s going to prevail. 
+
+If you build your own car in the real world, you might be able to do a car, but that’s not what you see on the streets right? You see the successful, the commercially successful cars made by big companies and so on. So I think the same thing will apply.
+
+Some people will make their custom shapes, and there will be so and so, but most of the ships you see will be made by specialized players who are good at that.
+
+
+CaptainShack:
+
+Okay, so the way that you’ve described it so far to me, it sounds like not just for ships but you’re going to grow a full economy. People are going to take on the roles that they want to play, maybe you want to mine all the time, you want to be that miner like a lot of people do in Eve. I’ll never understand, but they do it. 
+
+But okay, you want to mine, you sell your resources maybe, and there’s going to be some type of obviously a currency, and then you can break into the different roles you may want to do. So maybe transportation, and you get the transport ship, and the ships will have different statistics to play those roles. So transport you’re going to want a big cargo hold maybe?
+
+
+JC:
+
+Yeah, for sure. You have to realize that there is no such thing as a ship as an entity really in the game. It’s, you build something that flies, and has certain properties, and you will call it a ship. Because that’s what it is. But if you have a problem which is to transport a lot of matter from one point to the other, then you have to design a ship that is large enough, with large containers in it, but then of course it’s going to be heavy, because everything is physically based, you will have to put bigger engines to move it. Or if you want, you can put medium sized engines, but it’s going to be very slow. But then you’re not going to be competitive with other guys who have a bit faster ships to move things around, and so on and so on. 
+
+
+[12:15]
+
+So there will be a lot of emergent gameplay, where balances and equilibrium form themselves through the needs of and the competition that is constant in the game. Again, like the real world economy. Nobody is really setting the rules, except in you’re in a , you know, communist economy I suppose. 
+
+But you know what, people could actually devise a communistic economy if they want in Dual Universe. It’s really open.
+
+CaptainShack:
+
+That is really cool! So you’ve talked about having an economy that actually builds on the gameplay, this emergent gameplay of people being able to take on the roles and build these groups, I wouldn’t say guilds but alliances, corporations whatever you want to call them, to work together toward whatever their goal is. I guess that they could just come up with, it’s a fairly large sandbox is what you’re describing.
+
+
+JC:
+
+Yes it’s large, but at the same time if you think about it, we don’t create content, or it’s going to be marginal or kind of things to bootstrap to help people to begin. But we don’t really create content, and that’s actually making, basically the cost of the game much lower. If you look at other space sims where you have all these beautiful ships, all these fantastic stations and so on, you know somebody has to do that. Somebody has to be paid, and we’re talking about sometimes hundreds of people, Hundreds of artists making that.
+
+So, It’s another model that we have in mind, where we let people create what they really like, not everybody will be a builder as I said. Some people will really like to do it, and if you look at minecraft or everquest landmark, you can see how amazing things are that people can actually create.
+
+So some people will be very good at that, and they will create the content that will get selected and so on. So at the end of the day it is less ambitious in a sense, because what we do is just putting building blocks. You talked about, guilds corporations, etc. Even that we don’t put in the game explicitly, we put the concept of organizations which is a generic template that you can specialize into a nation, into a city, whatever you want. So we try to generalize all the things into something that can be fine tuned. 
+
+So, I don’t know, people want to call that a nation? Fine! But we don’t actually define that, and we let people define what they really want to do.
+
+
+CaptainShack:
+
+There’s no limiting factors to basically what they can do with this group mechanic, it can go as small or maybe as large as they want to, right?
+
+
+JC:
+
+Yeah, no limit. 
+
+If you want to know more about that, there’s a huge amount of information on our devblog. There is one devblog which is dedicated to organizations that explains how it’s organized, with legates on one side, members	on the others. How this is organized and so on.
+
+
+CaptainShack:
+
+Well I’ll put a link in the description below for anybody who wants to get really in depth, read the devblog. I’m definitely going to be going in deep with it, well I know I’m going to be doing more content on this title for sure, and Dual Universe is, you guys are shooting for pretty what me and (?) have been talking about for going on years now. That’s space sim giant sci-fi, where we can do whatever the hell we want basically. So it sounds really cool!
+
+Let’s get back to what you’ve got working right now. Have you gotten to the point where you’ve got the servers running, you’ve got multiple people on ships that are moving into space, what have you tested so far in the progress you’ve made so far?
+
+
+JC:
+
+So far, and I want to be completely transparent, is today we have the technological ground on which we can build the gameplay. We have gameplay now implemented for building, so you can actually shape the ships that you are making the way you like. So you have different tools for modifying the shape of the voxels, smooth things, things like that. We still need to do a lot of polish to make this really really good, but that’s what we have, and of course all of the procedural generation of the planets. All of the server technology, and the things I mentioned.
+
+And this is now the time where we start to build up the gameplay about exploration, about scanning for minerals, about markets, and later on about combat, about territory and all these things. But you know, the way I see things is that, the really hard part which is something that I would say you will not solve with a lot of money and a lot of time easily, is the technology part. That’s what we started with, and now we have this ground, this solid ground on which we can build the gameplay. The gameplay is not easy, but if we have the proper support, and the proper time, I’m confident we can actually implement it and get moving forward on this technological ground that changes everything because it allows this kind of gameplay that we’ve been talking about.
+
+
+CaptainShack:
+
+One of the questions that I definitely wanted to ask you, and you mentioned it real briefly in the pcgamer show, is the way that gameplay is going to, it’s going to balance itself in a way I think you mentioned. It was going to have some type of like dynamic, um, what stops a player from just like running off to the edge of space and keep on going? Is there going to be something there that might push back? 
+
+For claiming territory the same idea, is a group of players just going to grab up everything?
+
+
+JC:
+
+The Limit is going to be time, because there is no free lunch in this world, you cannot just teleport yourself at the edge of the universe. So, the limit is going to be how much time it takes for people to unlock the technologies that allows them to go faster. 
+
+To give you an example, the way we envision stargates, is to say before you can create a stargate on a remote location, that you can then use to sort of teleport yourself there, you have to send a drone that is going to travel at the real speed, until it gets there. So it might mean literally months of real time waiting until your drone arrives there and deploys a first seed, if you want, that is going to be the first thing you can use to jump at the destination and start to build the final stargate that will then enter protection.
+
+So the things we have in mind, is that the universe is going to expand at the speed of people exploring. And it takes time, and it’s a physical world, so yeah we can have billions of planets if you want, if that’s a marketing point, but really our planets are procedurally generated, so yeah it’s free I can have billions and billions if you want, we don’t store anything on the server until you actually modify something.
+
+If you modify something on a planet, we store a tiny area where you’ve modified the thing. 
+
+So a planet is literally free, so it’s not a technical issue to have a gigantic world. We are more interested in having a world that is populated with people that made the effort to go where they go and for good reason, because they explore, because they look for resources, because they want to sell them, because they want to be rich or whatever. You know, because they want to build the death star, and they need huge amounts of this..
+
+
+CaptainShack:
+
+Our channel’s going to love that, they’re going to be like “aww I want to build the death star!”
+
+
+JC:
+
+I’m actually sure someone is going to do that, or an organization. And if you think about it, it’s fantastic because it will give a lot of sort of jobs to a lot of other players, people that have to do the logistics, the mining, the technical setting, the mercenaries to protect the building site and so on and so on.
+
+So it’s another thing, that we don’t have, we won’t have quests or explicit goals like that. Or if we have, you know, it’s just going to be a little bit, to sort of tutorial people into the game. 
+
+But, it’s going to emerge from the players. So when you enter the game, you can look at job boards and things, we’re looking at someone who is going to be mining that mount of things for example, because you are building the death star.
+
+
+CaptainShack:
+
+And they need those resources, so they get that kind of gameplay going. 
+
+
+JC:
+
+Well, people don’t believe us, and it’s fine. It’s perfectly normal. It’s actually sound for people not to be buying anything.
+
+
+CaptainShack:
+
+You are doing something that has never been done before, it’s been promised but it’s never been done.
+
+
+JC:
+
+So I’m okay with that, I just want to show to some people that we, where we are in a transparent way. So yes, we have a lot of gameplay to develop, we still have a lot of work, we’re still in pre-alpha, we want to talk with the community.
+
+
+CaptainShack:
+
+What’s the next step?
+
+
+JC:
+
+The next step is obviously the alpha haha, and we are targeting the beginning of 2017 to have a closed alpha with a few people testing. So we’re going to go very smoothly, slowly and carefully. We also want to interact a lot with the community, so we have forums, of course twitter Facebook, things like that. But we really want to discuss with people, help us to understand for example what they like most, and what will be their priority, because we can adjust the road map and the schedule.
+
+So that’s the stage where we are, alpha beginning 2017 if everything goes well. And you know sometimes things do not go well, so we’ll see.
+
+And beta probably about 1 year after. And the beta is the time where more people will be able to join and test. 
+
+
+CaptainShack:
+
+Keep me in mind for the beta please, I want to be part of that, or even the alpha, I’ll take that haha.
+
+
+JC:
+
+We’ll get you in the Alpha no problem.
+
+
+CaptainShack:
+
+All right, excellent!
+
+
+—
+
+CaptainShack:
+
+Well ladies and gentlemen, that’s dual universe. It’s a very ambitious title that has a pretty big spark of hope, that they may be able to actually pull it off. From what I’ve seen, obviously from the interview you can tell I was pretty impressed by what I got to see. Hopefully we see some more footage come out relatively soon to show you guys kind of how this technology works. If you want to know more, I’m going to link in the description below the devblogs or blogs there, fairly detailed, I recommend you check them out, and I will continue to cover Dual Universe as it continues to develop.
+
+If you enjoyed this video, hit that thumbs up button, subscribe to the channel for more modding, gaming and sci-fi goodness. And as always, thanks for watching and I will see you guys next time. 
+
+
+==========================
+
+Published on Jun 22, 2016
+CaptainShack sits down with Jean-Christophe Baillie the man behind Dual Universe a very ambitious up coming MMO Sandbox Crafting and building space sim. 
+
+Website for Forums and Dev-blogs. 
+http://www.dualthegame.com/
+
+Enjoy my content? Want to help support the Captain quest to make epic videos about space sims and the modding community? We have a Patreon page! Your support is greatly appreciated :D 
+
+http://www.patreon.com/CaptainShack
+
+Subscribe for more Videos :D 
+
+
+
