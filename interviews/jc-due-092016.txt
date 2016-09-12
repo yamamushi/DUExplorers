@@ -42,4 +42,31 @@
 
 22) What will a blueprint look like? Will it tell us details about the resources needed? Is it a physical item that we store and can be stolen? Will there be a way to protect our blueprints from being stolen?
 
-23) 
+23) Are there going to be stellar anomalies like  solar flares and wormholes?
+
+24) What are going to be some of the different types of weapons  systems ingame laser, autocannon, other?
+
+25) How are you going to work shielding systems, will it be modular based or a single construct?
+
+26) How are the stargates made, are they a single construct or something made with voxels?
+
+27) What are some of the ways power can be generated and stored?
+
+28) Will we have a way to mark players as a hostile so turrets will engage on sight?
+
+29) Will there be a wayto automate turrets for security, and area denial?
+
+30) Will there be a way for us to pump water out of an area, construct?
+
+31) What are the resorces going to be, will they be real resource types or fictional, or combination of both?
+
+32) How will blueprints be made and how will the blueprint interface with shipyards for automated production?
+
+33) Will we be able to automate ship production?
+
+34) What are some of the technologies in the tech tree?
+
+35) What features will we have with market terminals, if we own them will we be able to set taxes on transactions?
+
+
+
