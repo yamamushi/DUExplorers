@@ -4,69 +4,71 @@
 
 3) Will we be able to build under water?
 
-4) What are some ways you may attempt to tackle the issue of air inside of ships and the lack of air outside of them? Will we be able to walk in our ships without wearing masks? 
+4) Will there be weather in Dual Universe? Will weather affect players or constructs in some way?
 
-5) Will Novaquark provide an API for developers to build third party applications using live game data? Might our LUA be able to provide information through that API?
+5) What are some ways you may attempt to tackle the issue of air inside of ships and the lack of air outside of them? Will we be able to walk in our ships without wearing masks? 
 
-6) Will there be items in the game so rare that perhaps only one or a handful of people have them? i.e., discovered items and/or rewards for sponsored events?
+6) Will Novaquark provide an API for developers to build third party applications using live game data? Might our LUA be able to provide information through that API?
 
-7) Will there be in game holidays, similar to how WoW celebrates Halloween/Christmas/Etc in game? 
+7) Will there be items in the game so rare that perhaps only one or a handful of people have them? i.e., discovered items and/or rewards for sponsored events?
 
-8) What is the smallest level of detail we can craft? Will we be able to make smooth surfaces, i.e. a large rounded/smooth wing, or will everything be blocks and spheres? 
+8) Will there be in game holidays, similar to how WoW celebrates Halloween/Christmas/Etc in game? 
 
-9) What are some of the narrative influences for dual universe? i.e. books and movies and other media? 
+9) What is the smallest level of detail we can craft? Will we be able to make smooth surfaces, i.e. a large rounded/smooth wing, or will everything be blocks and spheres? 
 
-10) There was mention of fan fiction guidelines being released, when might we see some of those surface?
+10) What are some of the narrative influences for dual universe? i.e. books and movies and other media? 
 
-11) Will we unlock new element “blueprints” by simply acquiring the right skills, or will element blueprints be “discovered” by some other yet to be discussed means?
+11) There was mention of fan fiction guidelines being released, when might we see some of those surface?
 
-12) How will a trespasser will be treated, can you stop someone from entering your territory, or are they just flagged, how will the system work and still allow for people to take over territories?
+12) Will we unlock new element “blueprints” by simply acquiring the right skills, or will element blueprints be “discovered” by some other yet to be discussed means?
 
-13) Will there be a limited amount of money in the game, or will there be a steady flow of new currency through the npc’s on the market?
+13) How will a trespasser will be treated, can you stop someone from entering your territory, or are they just flagged, how will the system work and still allow for people to take over territories?
 
-14) Will players have their names above them, or will you have to interact with them in some way to identify them?
+14) Will there be a limited amount of money in the game, or will there be a steady flow of new currency through the npc’s on the market?
 
-15) Will there be player-run banks where players can store their money in a physical location? Or is money purely digital?
+15) Will players have their names above them, or will you have to interact with them in some way to identify them?
 
-16) Will there be territory in space? Perhaps borders or beacons that act like borders notifying when someone or something crosses?
+16) Will there be player-run banks where players can store their money in a physical location? Or is money purely digital?
 
-17) Has Novaquark considered something similar to the CSM (The Council of Stellar Management) from Eve Online? 
+17) Will there be territory in space? Perhaps borders or beacons that act like borders notifying when someone or something crosses?
 
-18) How will a large ship benefit from having a crew of players versus flying solo? Will players be able to script away the need for other players with AI? 
+18) Has Novaquark considered something similar to the CSM (The Council of Stellar Management) from Eve Online? 
 
-19) Will we be able to have lit/animated billboards? 
+19) How will a large ship benefit from having a crew of players versus flying solo? Will players be able to script away the need for other players with AI? 
 
-20) Will be able to broadcast to other players perhaps through a global audio stream (radio station) or in game video stream?
+20) Will we be able to have lit/animated billboards? 
 
-21) Will we be able to “hail” other players on ships similar to Star Trek?
+21) Will be able to broadcast to other players perhaps through a global audio stream (radio station) or in game video stream?
 
-22) What will a blueprint look like? Will it tell us details about the resources needed? Is it a physical item that we store and can be stolen? Will there be a way to protect our blueprints from being stolen?
+22) Will we be able to “hail” other players on ships similar to Star Trek?
 
-23) Are there going to be stellar anomalies like  solar flares and wormholes?
+23) What will a blueprint look like? Will it tell us details about the resources needed? Is it a physical item that we store and can be stolen? Will there be a way to protect our blueprints from being stolen?
 
-24) What are going to be some of the different types of weapons  systems ingame laser, autocannon, other?
+24) Are there going to be stellar anomalies like  solar flares and wormholes?
 
-25) How are you going to work shielding systems, will it be modular based or a single construct?
+25) What are going to be some of the different types of weapons  systems ingame laser, autocannon, other?
 
-26) How are the stargates made, are they a single construct or something made with voxels?
+26) How are you going to work shielding systems, will it be modular based or a single construct?
 
-27) What are some of the ways power can be generated and stored?
+27) How are the stargates made, are they a single construct or something made with voxels?
 
-28) Will we have a way to mark players as a hostile so turrets will engage on sight?
+28) What are some of the ways power can be generated and stored?
 
-29) Will there be a wayto automate turrets for security, and area denial?
+29) Will we have a way to mark players as a hostile so turrets will engage on sight?
 
-30) Will there be a way for us to pump water out of an area, construct?
+30) Will there be a wayto automate turrets for security, and area denial?
 
-31) What are the resorces going to be, will they be real resource types or fictional, or combination of both?
+31) Will there be a way for us to pump water out of an area, construct?
 
-32) How will blueprints be made and how will the blueprint interface with shipyards for automated production?
+32) What are the resorces going to be, will they be real resource types or fictional, or combination of both?
 
-33) Will we be able to automate ship production?
+33) How will blueprints be made and how will the blueprint interface with shipyards for automated production?
 
-34) What are some of the technologies in the tech tree?
+34) Will we be able to automate ship production?
 
-35) What features will we have with market terminals, if we own them will we be able to set taxes on transactions?
+35) What are some of the technologies in the tech tree?
+
+36) What features will we have with market terminals, if we own them will we be able to set taxes on transactions?
 
 
 
