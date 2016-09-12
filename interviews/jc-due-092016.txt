@@ -40,6 +40,6 @@
 
 21) Will we be able to “hail” other players on ships similar to Star Trek?
 
-22) What will a blueprint look like? Will it tell us details about the resources needed? Is it a physical item that we store and can be stolen? 
+22) What will a blueprint look like? Will it tell us details about the resources needed? Is it a physical item that we store and can be stolen? Will there be a way to protect our blueprints from being stolen?
 
 23) 
