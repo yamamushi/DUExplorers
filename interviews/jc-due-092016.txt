@@ -32,4 +32,14 @@
 
 17) Has Novaquark considered something similar to the CSM (The Council of Stellar Management) from Eve Online? 
 
-18) 
+18) How will a large ship benefit from having a crew of players versus flying solo? Will players be able to script away the need for other players with AI? 
+
+19) Will we be able to have lit/animated billboards? 
+
+20) Will be able to broadcast to other players perhaps through a global audio stream (radio station) or in game video stream?
+
+21) Will we be able to “hail” other players on ships similar to Star Trek?
+
+22) What will a blueprint look like? Will it tell us details about the resources needed? Is it a physical item that we store and can be stolen? 
+
+23) 
