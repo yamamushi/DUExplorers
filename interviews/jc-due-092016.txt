@@ -1,0 +1,29 @@
+1) What does the current roadmap look like, and what do you see as requirements to complete before releasing alpha to the testers?
+
+2) What happened to “balloon ships” from the lore and early devblog? Are there still plans to have them?
+
+3) Will we be able to build under water?
+
+4) What are some ways you may attempt to tackle the issue of air inside of ships and the lack of air outside of them? Will we be able to walk in our ships without wearing masks? 
+
+5) Will Novaquark provide an API for developers to build third party applications using live game data? Might our LUA be able to provide information through that API?
+
+6) Will there be items in the game so rare that perhaps only one or a handful of people have them? i.e., discovered items and/or rewards for sponsored events?
+
+7) Will there be in game holidays, similar to how WoW celebrates Halloween/Christmas/Etc in game? 
+
+8) What is the smallest level of detail we can craft? Will we be able to make smooth surfaces, i.e. a large rounded/smooth wing, or will everything be blocks and spheres? 
+
+9) What are some of the narrative influences for dual universe? i.e. books and movies and other media? 
+
+10) There was mention of fan fiction guidelines being released, when might we see some of those surface?
+
+11) Will we unlock new element “blueprints” by simply acquiring the right skills, or will element blueprints be “discovered” by some other yet to be discussed means?
+
+12) How will a trespasser will be treated, can you stop someone from entering your territory, or are they just flagged, how will the system work and still allow for people to take over territories?
+
+13) Will there be a limited amount of money in the game, or will there be a steady flow of new currency through the npc’s on the market?
+
+14) Will players have their names above them, or will you have to interact with them in some way to identify them?
+
+
